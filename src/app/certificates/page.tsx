@@ -6,7 +6,7 @@ import Link from "next/link";
 
 const Certificates = () => {
   return (
-    <div className="min-h-screen" style={{ backgroundColor: "#202020", color: "#FFFFFF" }}>
+    <div className="min-h-screen" style={{ backgroundColor: "#000000", color: "#FFFFFF" }}>
       {/* Main Content */}
       <main className="container mx-auto py-10">
         <h1 className="text-center text-4xl font-bold mb-10">My Certificates</h1>
@@ -14,11 +14,11 @@ const Certificates = () => {
           {certificates.map((cert, index) => (
             <article key={index} className="p-4 rounded-md shadow-lg" style={{ backgroundColor: "#000000" }}>
               <header className="mb-4">
-                <span className="block text-sm" style={{ color: "#A3A3A3" }}>
+                <span className="block text-sm" style={{ color: "#FFFFFF" }}>
                   {cert.date}
                 </span>
                 <h2 className="text-2xl font-bold">
-                  <a href={cert.link} target="_blank" rel="noopener noreferrer" style={{ color: "#EAB308" }}>
+                  <a href={cert.link} target="_blank" rel="noopener noreferrer" style={{ color: "#FFFFFF" }}>
                     {cert.title}
                   </a>
                 </h2>

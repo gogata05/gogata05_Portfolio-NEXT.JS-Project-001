@@ -14,152 +14,169 @@ export const data = {
     { name: "Reviews", href: "/reviews" }
   ]
 };
+
 export const educationData = [
   {
     id: 1,
     title: "C# Basics",
-    location: `Software University`,
-    text: `Introduction to programming with C#. This course covers the basics of C# programming including data types, variables, loops, arrays, and basic algorithms.`,
+    location: "Software University",
+    text: "Introduction to programming with C#. This course covers the basics of C# programming including data types, variables, loops, arrays, and basic algorithms.",
     delay: 0.4,
     icons: ["icons/csharp.svg"],
-    githubLink: "https://github.com/gogata05/CSharpBasicsProject" // ново свойство
+    githubLink: "https://github.com/gogata05/SoftUni-CSharp-Basics-October-2022/blob/main/README.md"
   },
   {
     id: 2,
     title: "C# Fundamentals",
-    location: `Software University`,
-    text: `Deepening understanding of C# programming with more complex data structures, OOP concepts, and exception handling.`,
+    location: "Software University",
+    text: "Deepening understanding of C# programming with more complex data structures, OOP concepts, and exception handling.",
     delay: 0.4,
     icons: ["icons/csharp.svg"],
-    githubLink: "https://github.com/gogata05/CSharpFundamentalsProject" // ново свойство
+    githubLink: "https://github.com/gogata05/SoftUni-CSharp-Fundamentals-January-2023/blob/main/README.md"
   },
   {
     id: 3,
     title: "C# Advanced",
-    location: `Software University`,
-    text: `Advanced topics in C#, including LINQ, Asynchronous Programming, and working with files and directories.`,
+    location: "Software University",
+    text: "Advanced topics in C#, including LINQ, Asynchronous Programming, and working with files and directories.",
     delay: 0.4,
-    icons: ["icons/csharp.svg"]
+    icons: ["icons/csharp.svg"],
+    githubLink: "https://github.com/gogata05/SoftUni-CSharp-Advanced-May-2023/blob/main/README.md"
   },
   {
     id: 4,
     title: "C# OOP",
-    location: `Software University`,
-    text: `Object-Oriented Programming (OOP) principles in C#, covering inheritance, polymorphism, abstraction, and encapsulation.`,
+    location: "Software University",
+    text: "Object-Oriented Programming (OOP) principles in C#, covering inheritance, polymorphism, abstraction, and encapsulation.",
     delay: 0.4,
-    icons: ["icons/csharp.svg"]
+    icons: ["icons/csharp.svg"],
+    githubLink: "https://github.com/gogata05/SoftUni-CSharp-OOP-June-2023/blob/main/README.md"
   },
   {
     id: 5,
     title: "MS SQL",
-    location: `Software University`,
-    text: `Fundamentals of working with Microsoft SQL Server, including database design, querying with SQL, and managing data.`,
+    location: "Software University",
+    text: "Fundamentals of working with Microsoft SQL Server, including database design, querying with SQL, and managing data.",
     delay: 0.4,
-    icons: ["icons/sqlserver.svg"]
+    icons: ["icons/sqlserver.svg"],
+    githubLink: "https://github.com/gogata05/SoftUni-CSharp-MS-SQL-September-2023/blob/main/README.md"
   },
   {
     id: 6,
     title: "Entity Framework Core",
-    location: `Software University`,
-    text: `Data access with Entity Framework Core, covering database-first and code-first approaches, migrations, and working with LINQ.`,
+    location: "Software University",
+    text: "Data access with Entity Framework Core, covering database-first and code-first approaches, migrations, and working with LINQ.",
     delay: 0.4,
-    icons: ["icons/entityframework.svg"]
+    icons: ["icons/entityframework.svg"],
+    githubLink: "https://github.com/gogata05/SoftUni-CSharp-Entity-Framework-Core-October-2023/blob/main/README.md"
   },
   {
     id: 7,
     title: "C# Data Structures Advanced",
-    location: `Software University`,
-    text: `Advanced data structures in C#, including lists, stacks, queues, and trees, as well as algorithms for sorting and searching.`,
+    location: "Software University",
+    text: "Advanced data structures in C#, including lists, stacks, queues, and trees, as well as algorithms for sorting and searching.",
     delay: 0.4,
-    icons: ["icons/csharp.svg"]
+    icons: ["icons/csharp.svg"],
+    githubLink: "https://github.com/gogata05/SoftUni-CSharp-Data-Structures-Advanced-November-2023/blob/main/README.md"
   },
   {
     id: 8,
     title: "HTML & CSS",
-    location: `Software University`,
-    text: `Basics of HTML and CSS for building and styling web pages, covering elements, attributes, and layout techniques.`,
+    location: "Software University",
+    text: "Basics of HTML and CSS for building and styling web pages, covering elements, attributes, and layout techniques.",
     delay: 0.4,
-    icons: ["icons/html.svg", "icons/css.svg"]
+    icons: ["icons/html.svg", "icons/css.svg"],
+    githubLink: "https://github.com/gogata05/SoftUni-HTML-CSS-May-2023/blob/main/README.md"
   },
   {
     id: 9,
     title: "JavaScript Front-End",
-    location: `Software University`,
-    text: `Introduction to JavaScript for front-end development, including DOM manipulation, event handling, and basic interactivity.`,
+    location: "Software University",
+    text: "Introduction to JavaScript for front-end development, including DOM manipulation, event handling, and basic interactivity.",
     delay: 0.4,
-    icons: ["icons/javascript.svg"]
+    icons: ["icons/javascript.svg"],
+    githubLink: "https://github.com/gogata05/SoftUni-JS-Front-End-June-2023/blob/main/README.md"
   },
   {
     id: 10,
     title: "JavaScript Advanced",
-    location: `Software University`,
-    text: `Advanced JavaScript topics such as closures, higher-order functions, asynchronous programming, and ES6+ features.`,
+    location: "Software University",
+    text: "Advanced JavaScript topics such as closures, higher-order functions, asynchronous programming, and ES6+ features.",
     delay: 0.4,
-    icons: ["icons/javascript.svg"]
+    icons: ["icons/javascript.svg"],
+    githubLink: "https://github.com/gogata05/SoftUni-JS-Advanced-September-2023/blob/main/README.md"
   },
   {
     id: 11,
     title: "JavaScript Applications",
-    location: `Software University`,
-    text: `Developing applications with JavaScript, covering HTTP and REST services, SPA, and client-side rendering.`,
+    location: "Software University",
+    text: "Developing applications with JavaScript, covering HTTP and REST services, SPA, and client-side rendering.",
     delay: 0.4,
-    icons: ["icons/javascript.svg", "icons/css.svg", "icons/html.svg", "icons/github.svg"]
+    icons: ["icons/javascript.svg", "icons/css.svg", "icons/html.svg", "icons/github.svg"],
+    githubLink: "https://github.com/gogata05/SoftUni-JS-Applications-October-2023/blob/main/README.md"
   },
   {
     id: 12,
     title: "JavaScript Back-End",
-    location: `Software University`,
-    text: `Server-side JavaScript development with Node.js, Express, and MongoDB, including building RESTful APIs.`,
+    location: "Software University",
+    text: "Server-side JavaScript development with Node.js, Express, and MongoDB, including building RESTful APIs.",
     delay: 0.4,
-    icons: ["icons/javascript.svg", "icons/mongodb.svg", "icons/nodejs.svg", "icons/github.svg"]
+    icons: ["icons/javascript.svg", "icons/mongodb.svg", "icons/nodejs.svg", "icons/github.svg"],
+    githubLink: "https://github.com/gogata05/SoftUni-JS-Back-End-February-2024/blob/main/README.md"
   },
   {
     id: 13,
     title: "ASP.NET Fundamentals",
-    location: `Software University`,
-    text: `Basic concepts of ASP.NET for web development, covering MVC pattern, Razor views, and data access with Entity Framework.`,
+    location: "Software University",
+    text: "Basic concepts of ASP.NET for web development, covering MVC pattern, Razor views, and data access with Entity Framework.",
     delay: 0.4,
-    icons: ["icons/aspnet.svg"]
+    icons: ["icons/aspnet.svg"],
+    githubLink: "https://github.com/gogata05/SoftUni-ASP.NET-Fundamentals-February-2024/blob/main/README.md"
   },
   {
     id: 14,
     title: "ASP.NET Advanced",
-    location: `Software University`,
-    text: `Advanced ASP.NET topics such as security, authentication, authorization, and performance optimization.`,
+    location: "Software University",
+    text: "Advanced ASP.NET topics such as security, authentication, authorization, and performance optimization.",
     delay: 0.4,
-    icons: ["icons/aspnet.svg"]
+    icons: ["icons/aspnet.svg"],
+    githubLink: "https://github.com/gogata05/SoftUni-ASP.NET-Advanced-February-2024/blob/main/README.md"
   },
   {
     id: 15,
     title: "Angular",
-    location: `Software University`,
-    text: `Introduction to Angular framework for building client-side applications, covering components, modules, services, and routing.`,
+    location: "Software University",
+    text: "Introduction to Angular framework for building client-side applications, covering components, modules, services, and routing.",
     delay: 0.4,
-    icons: ["icons/angular.svg", "icons/typescript.svg"]
+    icons: ["icons/angular.svg", "icons/typescript.svg"],
+    githubLink: "https://github.com/gogata05/SoftUni-Angular-April-2024/blob/main/README.md"
   },
   {
     id: 16,
     title: "TypeScript",
-    location: `Software University`,
-    text: `TypeScript basics and integration with JavaScript projects, including type definitions, interfaces, and advanced type features.`,
+    location: "Software University",
+    text: "TypeScript basics and integration with JavaScript projects, including type definitions, interfaces, and advanced type features.",
     delay: 0.4,
-    icons: ["icons/typescript.svg"]
+    icons: ["icons/typescript.svg"],
+    githubLink: "https://github.com/gogata05/SoftUni-TypeScript-April-2024/blob/main/README.md"
   },
   {
     id: 17,
     title: "PostgreSQL",
-    location: `Software University`,
-    text: `Database management with PostgreSQL, covering database design, querying, and advanced SQL features.`,
+    location: "Software University",
+    text: "Database management with PostgreSQL, covering database design, querying, and advanced SQL features.",
     delay: 0.4,
-    icons: ["icons/postgresql.svg"]
+    icons: ["icons/postgresql.svg"],
+    githubLink: "https://github.com/gogata05/SoftUni-PostgreSQL-May-2024/blob/main/README.md"
   },
   {
     id: 18,
     title: "SoftUni Software Engineering and DevOps",
-    location: `Software University`,
-    text: `Comprehensive program covering software engineering principles, DevOps practices, CI/CD pipelines, and cloud deployment.`,
+    location: "Software University",
+    text: "Comprehensive program covering software engineering principles, DevOps practices, CI/CD pipelines, and cloud deployment.",
     delay: 0.4,
-    icons: ["icons/github.svg"]
+    icons: ["icons/github.svg"],
+    githubLink: "https://github.com/gogata05/SoftUni-Software-Engineering-and-DevOps-May-2024/blob/main/README.md"
   }
 ];
 
@@ -210,7 +227,6 @@ export const skills = [
     icon: "icons/nextjs.svg"
   }
 ];
-
 export const projectData = [
   {
     id: 1,
@@ -218,7 +234,6 @@ export const projectData = [
     subTitle: "Book store - ASP.NET",
     image: "projects/BulkyProject.png",
     color: "yellow",
-    tags: ["Stripe Payment", "DataTables", "SweetAlerts", "Tiny", "Roles"],
     tags: ["icons/csharp.svg", "icons/stripe.svg"],
     links: {
       github: "https://github.com/gogata05/Bulky-ASP.NET-Project-003"
@@ -266,7 +281,7 @@ export const projectData = [
     tags: ["icons/react.svg"],
     links: {
       github: "https://github.com/gogata05/TourGuide-React-Project-001",
-      vercel: "https://tourguide-react"
+      vercel: "https://tour-guide-react-project-001-ama7.vercel.app/"
     }
   },
   {

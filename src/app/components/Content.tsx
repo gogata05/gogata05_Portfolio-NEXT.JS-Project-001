@@ -30,8 +30,8 @@ function Content({}: Props) {
               </motion.p>
             ) : (
               <motion.p key={"more"} className="text-base text-gray-600 md:text-lg phone:mr-6" initial={{ opacity: 0, x: -100 }} animate={{ opacity: 1, x: 0 }} exit={{ opacity: 0, x: 400 }}>
-                {` I don't have a personal life and I can work non-stop without any problems. People go out, take days off, I attack. `}
-                <h2 className="font-semibold">{"I've been intern at 3web for 3 months and I've included in real projects that some of them are included in my portfolio. "}</h2>
+                {`I was a gaming YouTuber for 6 years, but since October 2022, when I started studying full-time at`}
+                <h2 className="font-semibold">{" SoftUni "}</h2>
               </motion.p>
             )}
           </div>

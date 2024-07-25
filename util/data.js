@@ -21,7 +21,8 @@ export const educationData = [
     location: `Software University`,
     text: `Introduction to programming with C#. This course covers the basics of C# programming including data types, variables, loops, arrays, and basic algorithms.`,
     delay: 0.4,
-    icons: ["icons/csharp.svg"]
+    icons: ["icons/csharp.svg"],
+    githubLink: "https://github.com/gogata05/CSharpBasicsProject" // ново свойство
   },
   {
     id: 2,
@@ -29,7 +30,8 @@ export const educationData = [
     location: `Software University`,
     text: `Deepening understanding of C# programming with more complex data structures, OOP concepts, and exception handling.`,
     delay: 0.4,
-    icons: ["icons/csharp.svg"]
+    icons: ["icons/csharp.svg"],
+    githubLink: "https://github.com/gogata05/CSharpFundamentalsProject" // ново свойство
   },
   {
     id: 3,

@@ -95,8 +95,8 @@ function Hero({}: Props) {
         tracking-widest text-gray-500 transition-all
          hover:border-[#F74AB0]/40 hover:text-[#2ed3db]/60'>Contacts</button>
         </Link> */}
-          {/* <Link href="/reviews">
-          <button className='heroButton'>Reviews</button>
+          {/* <Link href="/certificates">
+          <button className='heroButton'>Certificates</button>
         </Link> */}
         </div>
       </div>

@@ -3,8 +3,8 @@ import Header from "../Header";
 
 type Props = {};
 
-function Reviews({}: Props) {
+function Certificates({}: Props) {
   return <Header />;
 }
 
-export default Reviews;
+export default Certificates;

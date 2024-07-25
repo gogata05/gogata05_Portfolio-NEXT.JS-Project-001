@@ -3,7 +3,7 @@
 import Image from "next/image";
 import Link from "next/link";
 
-const Reviews = () => {
+const Certificates = () => {
   return (
     <div className="min-h-screen bg-customGray text-customWhite">
       {/* Main Content */}
@@ -154,4 +154,4 @@ const certificates = [
   }
 ];
 
-export default Reviews;
+export default Certificates;

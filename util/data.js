@@ -11,7 +11,7 @@ export const data = {
     { name: "Learn more", href: "/about" },
     { name: "Projects", href: "/about/#projects" },
     { name: "Contacts", href: "/about/#contacts" },
-    { name: "Reviews", href: "/reviews" }
+    { name: "Certificates", href: "/certificates" }
   ]
 };
 

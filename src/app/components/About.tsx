@@ -1,3 +1,4 @@
+// src\app\components\About.tsx
 "use client";
 import React, { useEffect, useState } from "react";
 import { motion } from "framer-motion";
@@ -55,7 +56,7 @@ function About({}: Props) {
           {" "}
           Here is a <span className="underline decoration-[#d106ca91]/40"> little</span> background
         </h4>{" "}
-        <p className=" max-w-[500px] text-left">I was a gaming YouTuber for 6 years, but since October 2022, when I started studying full-time at SoftUni, I haven't stopped. I don't have days off. I write for 10-15 hours every day until my eyes hurt. I have a Triple Monitor Desktop with which I can do the following 6 things simultaneously, which helps me see similarities/differences and understand new things extremely quickly. Separately, I have 2 laptops by the bed to plan my next actions for the end of the day when I'm tired so I don't waste any time at all. I don't have a personal life and I can work non-stop without any problems. People go out, take days off, I attack.</p>
+        <p className=" max-w-[500px] text-left">I was a gaming YouTuber for 6 years, but since October 2022, when I started studying full-time at SoftUni, I havent stopped. I dont have days off. I write for 10-15 hours every day until my eyes hurt. I have a Triple Monitor Desktop with which I can do the following 6 things simultaneously, which helps me see similarities/differences and understand new things extremely quickly. Separately, I have 2 laptops by the bed to plan my next actions for the end of the day when Im tired so I dont waste any time at all. I dont have a personal life and I can work non-stop without any problems. People go out, take days off, I attack.</p>
       </div>
     </motion.div>
   );

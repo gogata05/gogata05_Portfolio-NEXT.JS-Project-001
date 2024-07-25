@@ -1,3 +1,4 @@
+// src\app\components\About2.tsx
 "use client";
 import { motion } from "framer-motion";
 import React, { useState } from "react";
@@ -36,7 +37,7 @@ function About2({}: Props) {
           {showMore ? (
             <>
               <motion.h1 initial={{ opacity: 0, x: -100 }} animate={{ opacity: 1, x: 0 }} exit={{ opacity: 0, x: 400 }} className=" max-w-[500px] text-left mb-4 h-fit text-sm font-Inter">
-                I was a gaming YouTuber for 6 years, but since October 2022, when I started studying full-time at SoftUni, I haven't stopped. I don't have days off. I write for 10-15 hours every day until my eyes hurt. I have a Triple Monitor Desktop with which I can do the following 6 things simultaneously, which helps me see similarities/differences and understand new things extremely quickly. Separately, I have 2 laptops by the bed to plan my next actions for the end of the day when I'm tired so I don't waste any time at all. I don't have a personal life and I can work non-stop without any problems. People go out, take days off, I attack.{" "}
+                I was a gaming YouTuber for 6 years, but since October 2022, when I started studying full-time at SoftUni, I havent stopped. I dont have days off. I write for 10-15 hours every day until my eyes hurt. I have a Triple Monitor Desktop with which I can do the following 6 things simultaneously, which helps me see similarities/differences and understand new things extremely quickly. Separately, I have 2 laptops by the bed to plan my next actions for the end of the day when Im tired so I dont waste any time at all. I dont have a personal life and I can work non-stop without any problems. People go out, take days off, I attack.{" "}
                 <p className="flex justify-end " onClick={() => setShowMore(!showMore)}>
                   <p className="text-[#2ed3db] tracking-[10px] font-bold ">{"-"}</p>show less
                 </p>
@@ -45,7 +46,7 @@ function About2({}: Props) {
           ) : (
             <>
               <h1 className="max-w-[300px] mb-4 font-semibold">
-                I was a gaming YouTuber for 6 years, but since October 2022, when I started studying full-time at SoftUni, I haven't stopped.{" "}
+                I was a gaming YouTuber for 6 years, but since October 2022, when I started studying full-time at SoftUni, I havent stopped.{" "}
                 <p className="flex justify-center mt-4" onClick={() => setShowMore(!showMore)}>
                   <p className="text-[#2ed3db] tracking-[10px] font-bold ">{"+"}</p>show more..
                 </p>

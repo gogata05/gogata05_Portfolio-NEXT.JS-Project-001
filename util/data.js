@@ -211,7 +211,7 @@ export const skills = [
 export const projectData = [
   {
     id: 1,
-    title: "Bulky-ASP.NET-Project-003",
+    title: "Bulky - ASP.NET",
     subTitle: "Book store - ASP.NET",
     image: "projects/BulkyProject.png",
     color: "yellow",
@@ -223,7 +223,7 @@ export const projectData = [
   },
   {
     id: 2,
-    title: "AutoRepairService-ASP.NET-Project-002",
+    title: "AutoRepairService - ASP.NET",
     subTitle: "Auto Repair Car Service - ASP.NET",
     image: "projects/AutoRepairService.png",
     color: "cyan",
@@ -234,7 +234,7 @@ export const projectData = [
   },
   {
     id: 3,
-    title: "SkyDiving-ASP.NET-Project-001",
+    title: "SkyDiving - ASP.NET",
     subTitle: "Sky Diving Shop - ASP.NET",
     image: "projects/SkyDivingProject2.png",
     color: "green",
@@ -245,7 +245,7 @@ export const projectData = [
   },
   {
     id: 4,
-    title: "SpaceTravel-Angular-Project-001",
+    title: "SpaceTravel - Angular",
     subTitle: "Space Travel Trip App - Angular",
     image: "projects/SpaceTracelProject.jpg",
     color: "red",
@@ -256,7 +256,7 @@ export const projectData = [
   },
   {
     id: 5,
-    title: "TourGuide-React-Project-001",
+    title: "TourGuide - React",
     subTitle: "Tour Guide Bus Destination App - React",
     image: "projects/ReactProject1.png",
     color: "pink",
@@ -268,7 +268,7 @@ export const projectData = [
   },
   {
     id: 6,
-    title: "MealsToGo-React_Native-Project-001",
+    title: "MealsToGo - React Native",
     subTitle: "Restaurant App - React Native",
     image: "projects/Meals_Stripe_Payment.png",
     color: "slate",
@@ -279,7 +279,7 @@ export const projectData = [
   },
   {
     id: 7,
-    title: "RedMango-.NET_React_TS-Project-001",
+    title: "RedMango - .NET + React + TypeScript",
     subTitle: "Fast Food App - .NET REST API + React + TypeScript",
     image: "projects/RedMango-BE_.NET_Web_API.png",
     color: "green",

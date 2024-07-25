@@ -32,10 +32,14 @@ function Education({ props }) {
                     </a>
                   </span>
                   <span className="pl-14 phone:text-[12px] text-cyan-300 opacity-60 phone:mr-4">
-                    {item.location}
+                    <a href={item.githubLink} target="_blank" rel="noopener noreferrer">
+                      {item.location}
+                    </a>
                     <div className="flex flex-row pt-1">
                       {item.icons?.map((tag, index) => (
-                        <img key={index + tag} src={tag} className="max-w-6 max-h-6 mr-2" />
+                        <a href={item.githubLink} target="_blank" rel="noopener noreferrer" key={index + tag}>
+                          <img src={tag} className="max-w-6 max-h-6 mr-2" />
+                        </a>
                       ))}
                     </div>
                   </span>
@@ -45,7 +49,9 @@ function Education({ props }) {
               </div>
               {activeId == item.id && (
                 <div className="pt-[25px] ml-[51px] mr-[200px] phone:mr-1">
-                  <span className="text-grayText leading-[26px] text-[16px] text-white/70">{item.text}</span>
+                  <a href={item.githubLink} target="_blank" rel="noopener noreferrer">
+                    <span className="text-grayText leading-[26px] text-[16px] text-white/70 cursor-pointer">{item.text}</span>
+                  </a>
                 </div>
               )}
             </motion.div>

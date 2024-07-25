@@ -1,3 +1,4 @@
+// util\data.js
 export const data = {
   details: [
     {
@@ -289,5 +290,3 @@ export const projectData = [
     }
   }
 ];
-
-//1709

@@ -48,7 +48,7 @@ const certificates = [
   },
   {
     date: "October 2022 - Retake",
-    title: "Programing Basic with C# RETAKE",
+    title: "C# Basic - RETAKE",
     link: "https://softuni.bg/trainings/3871/programming-basics-with-csharp-october-2022",
     image: "/images/Programming Basic - October 2022 Retake.jfif"
   },

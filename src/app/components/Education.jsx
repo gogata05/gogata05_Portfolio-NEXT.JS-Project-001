@@ -24,36 +24,28 @@ function Education({ props }) {
               <div className="mt-[46px] text-[16px] font-normal leading-[26px] text-grayText phone:px-2">
                 <span className={`${activeId == item.id ? "text-cyan-200" : " text-white opacity-40"}`}>{"0" + item.id}</span>
               </div>
-              <div onClick={() => handleClick(item.id)} className="flex -mt-8 justify-between items-center font-medium text-grayText cursor-pointer">
-                <div className="flex flex-col w-full">
-                  <span className="leading-[42px] phone:text-[16px] phone:leading-[20px] font-medium text-[32px] text-darkText ml-[48px] phone:mr-4 text-gray-200">
-                    <a href={item.githubLink} target="_blank" rel="noopener noreferrer">
-                      {item.title}
-                    </a>
-                  </span>
-                  <span className="pl-14 phone:text-[12px] text-cyan-300 opacity-60 phone:mr-4">
-                    <a href={item.githubLink} target="_blank" rel="noopener noreferrer">
+              <a href={item.githubLink} target="_blank" rel="noopener noreferrer" className="block">
+                <div onClick={() => handleClick(item.id)} className="flex -mt-8 justify-between items-center font-medium text-grayText cursor-pointer">
+                  <div className="flex flex-col w-full">
+                    <span className="leading-[42px] phone:text-[16px] phone:leading-[20px] font-medium text-[32px] text-darkText ml-[48px] phone:mr-4 text-gray-200">{item.title}</span>
+                    <span className="pl-14 phone:text-[12px] text-cyan-300 opacity-60 phone:mr-4">
                       {item.location}
-                    </a>
-                    <div className="flex flex-row pt-1">
-                      {item.icons?.map((tag, index) => (
-                        <a href={item.githubLink} target="_blank" rel="noopener noreferrer" key={index + tag}>
-                          <img src={tag} className="max-w-6 max-h-6 mr-2" />
-                        </a>
-                      ))}
-                    </div>
-                  </span>
-                </div>
+                      <div className="flex flex-row pt-1">
+                        {item.icons?.map((tag, index) => (
+                          <img key={index + tag} src={tag} className="max-w-6 max-h-6 mr-2" />
+                        ))}
+                      </div>
+                    </span>
+                  </div>
 
-                <motion.img initial={{ rotate: 0 }} animate={{ rotate: activeId == item.id ? imageRotation : 0 }} src="Arrow.svg" className="flex justify-end items-end rotate-12 max-w-full phone:w-12" />
-              </div>
-              {activeId == item.id && (
-                <div className="pt-[25px] ml-[51px] mr-[200px] phone:mr-1">
-                  <a href={item.githubLink} target="_blank" rel="noopener noreferrer">
-                    <span className="text-grayText leading-[26px] text-[16px] text-white/70 cursor-pointer">{item.text}</span>
-                  </a>
+                  <motion.img initial={{ rotate: 0 }} animate={{ rotate: activeId == item.id ? imageRotation : 0 }} src="Arrow.svg" className="flex justify-end items-end rotate-12 max-w-full phone:w-12" />
                 </div>
-              )}
+                {activeId == item.id && (
+                  <div className="pt-[25px] ml-[51px] mr-[200px] phone:mr-1">
+                    <span className="text-grayText leading-[26px] text-[16px] text-white/70 cursor-pointer">{item.text}</span>
+                  </div>
+                )}
+              </a>
             </motion.div>
           ))}
         </div>

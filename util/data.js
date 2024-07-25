@@ -230,7 +230,7 @@ export const skills = [
 export const projectData = [
   {
     id: 1,
-    title: "Bulky - ASP.NET",
+    title: "BulkyBook - ASP.NET",
     subTitle: "Book store - ASP.NET",
     image: "projects/BulkyProject.png",
     color: "yellow",
@@ -274,7 +274,7 @@ export const projectData = [
   },
   {
     id: 5,
-    title: "TourGuide - React",
+    title: "TourGuide App - React",
     subTitle: "Tour Guide Bus Destination App - React",
     image: "projects/ReactProject1.png",
     color: "pink",
@@ -297,7 +297,7 @@ export const projectData = [
   },
   {
     id: 7,
-    title: "RedMango - .NET + React + TypeScript",
+    title: "RedMango - .NET + React + .TS",
     subTitle: "Fast Food App - .NET REST API + React + TypeScript",
     image: "projects/RedMango-BE_.NET_Web_API.png",
     color: "green",

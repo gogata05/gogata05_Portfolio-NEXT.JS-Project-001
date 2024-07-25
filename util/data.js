@@ -132,7 +132,7 @@ export const educationData = [
     location: `Software University`,
     text: `Introduction to Angular framework for building client-side applications, covering components, modules, services, and routing.`,
     delay: 0.4,
-    icons: ["icons/angular.svg"]
+    icons: ["icons/angular.svg", "icons/typescript.svg"]
   },
   {
     id: 16,
@@ -156,7 +156,7 @@ export const educationData = [
     location: `Software University`,
     text: `Comprehensive program covering software engineering principles, DevOps practices, CI/CD pipelines, and cloud deployment.`,
     delay: 0.4,
-    icons: ["icons/devops.svg"]
+    icons: ["icons/github.svg"]
   }
 ];
 
@@ -216,6 +216,7 @@ export const projectData = [
     image: "projects/BulkyProject.png",
     color: "yellow",
     tags: ["Stripe Payment", "DataTables", "SweetAlerts", "Tiny", "Roles"],
+    tags: ["icons/csharp.svg", "icons/stripe.svg"],
     links: {
       github: "https://github.com/gogata05/Bulky-ASP.NET-Project-003"
     }
@@ -226,7 +227,7 @@ export const projectData = [
     subTitle: "Auto Repair Car Service - ASP.NET",
     image: "projects/AutoRepairService.png",
     color: "cyan",
-    tags: ["Google Maps", "Econt Offices", "Live Support Chat"],
+    tags: ["icons/csharp.svg", "icons/google-maps.svg"],
     links: {
       github: "https://github.com/gogata05/AutoRepairService-ASP.NET-Project-002"
     }
@@ -237,7 +238,7 @@ export const projectData = [
     subTitle: "Sky Diving Shop - ASP.NET",
     image: "projects/SkyDivingProject2.png",
     color: "green",
-    tags: ["Star Rate System", "Slide Arrows Recent Posts", "App Statistics", "Toastr Notifications", "Pace Load Progress Bars"],
+    tags: ["icons/csharp.svg", "icons/google-maps.svg"],
     links: {
       github: "https://github.com/gogata05/SkyDiving-ASP.NET-Project-001"
     }
@@ -248,7 +249,7 @@ export const projectData = [
     subTitle: "Space Travel Trip App - Angular",
     image: "projects/SpaceTracelProject.jpg",
     color: "red",
-    tags: ["CRUD Operations", "Authorization", "Authentication", "Search", "Likes", "Comments", "Profile", "Upload/Download Images"],
+    tags: ["icons/angular.svg", "icons/typescript.svg"],
     links: {
       github: "https://github.com/gogata05/SpaceTravel-Angular-Project-001"
     }
@@ -259,7 +260,7 @@ export const projectData = [
     subTitle: "Tour Guide Bus Destination App - React",
     image: "projects/ReactProject1.png",
     color: "pink",
-    tags: ["CRUD Operations", "Authorization", "Authentication", "Search", "Likes", "Comments", "Profile", "Error Page", "Moment Date Manipulation"],
+    tags: ["icons/react.svg"],
     links: {
       github: "https://github.com/gogata05/TourGuide-React-Project-001",
       vercel: "https://tourguide-react"
@@ -271,7 +272,7 @@ export const projectData = [
     subTitle: "Restaurant App - React Native",
     image: "projects/Meals_Stripe_Payment.png",
     color: "slate",
-    tags: ["Firebase", "Stripe", "Google Maps", "Places API"],
+    tags: ["icons/react-native.svg", "icons/firebase.svg", "icons/google-maps.svg", "icons/stripe.svg"],
     links: {
       github: "https://github.com/gogata05/MealsToGo-React_Native-Project-001"
     }
@@ -282,7 +283,7 @@ export const projectData = [
     subTitle: "Fast Food App - .NET REST API + React + TypeScript",
     image: "projects/RedMango-BE_.NET_Web_API.png",
     color: "green",
-    tags: [".NET REST API", "React", "TypeScript"],
+    tags: ["icons/csharp.svg", "icons/react.svg", "icons/typescript.svg"],
     links: {
       github: "https://github.com/gogata05/RedMango-.NET_React_TS-Project-001"
     }

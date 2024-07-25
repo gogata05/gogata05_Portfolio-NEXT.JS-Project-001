@@ -1,3 +1,4 @@
+// src/app/certificates/page.tsx
 "use client";
 
 import Image from "next/image";
@@ -5,17 +6,19 @@ import Link from "next/link";
 
 const Certificates = () => {
   return (
-    <div className="min-h-screen bg-customGray text-customWhite">
+    <div className="min-h-screen" style={{ backgroundColor: "#202020", color: "#FFFFFF" }}>
       {/* Main Content */}
       <main className="container mx-auto py-10">
         <h1 className="text-center text-4xl font-bold mb-10">My Certificates</h1>
         <section className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
           {certificates.map((cert, index) => (
-            <article key={index} className="bg-basicBlack p-4 rounded-md shadow-lg">
+            <article key={index} className="p-4 rounded-md shadow-lg" style={{ backgroundColor: "#000000" }}>
               <header className="mb-4">
-                <span className="block text-sm text-customGray400">{cert.date}</span>
+                <span className="block text-sm" style={{ color: "#A3A3A3" }}>
+                  {cert.date}
+                </span>
                 <h2 className="text-2xl font-bold">
-                  <a href={cert.link} target="_blank" rel="noopener noreferrer" className="text-customOrange">
+                  <a href={cert.link} target="_blank" rel="noopener noreferrer" style={{ color: "#EAB308" }}>
                     {cert.title}
                   </a>
                 </h2>
@@ -30,7 +33,6 @@ const Certificates = () => {
     </div>
   );
 };
-
 const certificates = [
   {
     date: "October 2022 - May 2024",

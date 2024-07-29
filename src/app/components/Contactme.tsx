@@ -46,7 +46,7 @@ function Contactme({}: Props) {
       <div className="space-y-10">
         <div className="flex items-center space-x-5 justify-center">
           {/* <PhoneIcon className='text-[#F74AB0] h-7 w-7 animate-pulse ' />
-                    <p className='text-2xl'>+359 898 31 73 74</p> */}
+                    <p className='text-2xl'>+359 878 888 445</p> */}
         </div>
         <div className="flex items-center space-x-5 justify-center">
           <EnvelopeIcon className="text-[#F74AB0] h-7 w-7 animate-pulse " />

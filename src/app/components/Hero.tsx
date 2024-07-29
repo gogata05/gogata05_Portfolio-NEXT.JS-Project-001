@@ -11,7 +11,7 @@ interface Typewriter {
   delaySpeed: number;
 }
 const typewriterOptions: Typewriter = {
-  words: ["Hi, my name is Georgi Markov", "I don't stop", "i have no days off", "I get the job done"],
+  words: ["Hi, my name is Georgi Markov", "I don't stop", "I have no days off", "I get the job done"],
   loop: true,
   delaySpeed: 1500
 };

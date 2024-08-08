@@ -230,18 +230,18 @@ export const skills = [
 export const projectData = [
   {
     id: 1,
-    title: "BulkyBook - ASP.NET",
-    subTitle: "Book store - ASP.NET",
-    image: "projects/BulkyProject.png",
-    color: "yellow",
-    tags: ["icons/csharp.svg", "icons/stripe.svg"],
+    title: "SkyDiving-ASP.NET-Project-001",
+    subTitle: "Sky Diving Shop - ASP.NET",
+    image: "projects/SkyDivingProject2.png",
+    color: "green",
+    tags: ["icons/csharp.svg", "icons/google-maps.svg"],
     links: {
-      github: "https://github.com/gogata05/Bulky-ASP.NET-Project-003"
+      github: "https://github.com/gogata05/SkyDiving-ASP.NET-Project-001"
     }
   },
   {
     id: 2,
-    title: "AutoRepairService - ASP.NET",
+    title: "AutoRepairService-ASP.NET-Project-002",
     subTitle: "Auto Repair Car Service - ASP.NET",
     image: "projects/AutoRepairService.png",
     color: "cyan",
@@ -252,29 +252,29 @@ export const projectData = [
   },
   {
     id: 3,
-    title: "SkyDiving - ASP.NET",
-    subTitle: "Sky Diving Shop - ASP.NET",
-    image: "projects/SkyDivingProject2.png",
-    color: "green",
-    tags: ["icons/csharp.svg", "icons/google-maps.svg"],
+    title: "BookStore-ASP.NET-Project-003",
+    subTitle: "Book store - ASP.NET",
+    image: "projects/BulkyProject.png",
+    color: "yellow",
+    tags: ["icons/csharp.svg", "icons/stripe.svg"],
     links: {
-      github: "https://github.com/gogata05/SkyDiving-ASP.NET-Project-001"
+      github: "https://github.com/gogata05/BookStore-ASP.NET-Project-003"
     }
   },
   {
     id: 4,
-    title: "SpaceTravel - Angular",
-    subTitle: "Space Travel Trip App - Angular",
-    image: "projects/SpaceTracelProject.jpg",
-    color: "red",
-    tags: ["icons/angular.svg", "icons/typescript.svg"],
+    title: "RestaurantDelivery- .NET-React-TypeScript-Project-001",
+    subTitle: "Restaurant Delivery App - ASP.NET",
+    image: "projects/RedMango-BE_.NET_Web_API.png",
+    color: "green",
+    tags: ["icons/csharp.svg", "icons/react.svg", "icons/typescript.svg"],
     links: {
-      github: "https://github.com/gogata05/SpaceTravel-Angular-Project-001"
+      github: "https://github.com/gogata05/RestaurantDelivery-.NET-React-TypeScript-Project-001"
     }
   },
   {
     id: 5,
-    title: "TourGuide App - React",
+    title: "TourGuide-React-Project-001",
     subTitle: "Tour Guide Bus Destination App - React",
     image: "projects/ReactProject1.png",
     color: "pink",
@@ -286,24 +286,68 @@ export const projectData = [
   },
   {
     id: 6,
-    title: "MealsToGo - React Native",
-    subTitle: "Restaurant App - React Native",
+    title: "gogata05_Portfolio-NEXT.JS-Project-001",
+    subTitle: "My Portfolio with NEXT.JS",
+    image: "projects/Portfolio-NEXT.JS.png",
+    color: "yellow",
+    tags: ["icons/react.svg", "icons/nextjs.svg"],
+    links: {
+      github: "https://github.com/gogata05/gogata05_Portfolio-NEXT.JS-Project-001"
+    }
+  },
+  {
+    id: 7,
+    title: "Online_Document_Processor-NEXT.JS-Project-002",
+    subTitle: "Google Docs Clone application",
+    image: "projects/Online_Document_Processor.png",
+    color: "blue",
+    tags: ["icons/react.svg", "icons/nextjs.svg"],
+    links: {
+      github: "https://github.com/gogata05/Online_Document_Processor-NEXT.JS-Project-002"
+    }
+  },
+  {
+    id: 8,
+    title: "MealsToGo-React_Native-Project-001",
+    subTitle: "Meals App - React Native",
     image: "projects/Meals_Stripe_Payment.png",
-    color: "slate",
+    color: "pink",
     tags: ["icons/react-native.svg", "icons/firebase.svg", "icons/google-maps.svg", "icons/stripe.svg"],
     links: {
       github: "https://github.com/gogata05/MealsToGo-React_Native-Project-001"
     }
   },
   {
-    id: 7,
-    title: "RedMango - .NET + React + .TS",
-    subTitle: "Fast Food App - .NET REST API + React + TypeScript",
-    image: "projects/RedMango-BE_.NET_Web_API.png",
-    color: "green",
-    tags: ["icons/csharp.svg", "icons/react.svg", "icons/typescript.svg"],
+    id: 9,
+    title: "SpaceTravel - Angular",
+    subTitle: "Space Travel Trip App - Angular",
+    image: "projects/SpaceTracelProject.jpg",
+    color: "red",
+    tags: ["icons/angular.svg", "icons/typescript.svg"],
     links: {
-      github: "https://github.com/gogata05/RedMango-.NET_React_TS-Project-001"
+      github: "https://github.com/gogata05/SpaceTravel-Angular-Project-001"
+    }
+  },
+  {
+    id: 10,
+    title: "Stockfish-API-Angular-Project-002",
+    subTitle: "Chess Stockfish AI - Angular",
+    image: "projects/chess.png",
+    color: "red",
+    tags: ["icons/angular.svg", "icons/typescript.svg"],
+    links: {
+      github: "https://github.com/gogata05/Stockfish-API-Angular-Project-002"
+    }
+  },
+  {
+    id: 11,
+    title: "Mp3-Player-Vue-Project-001",
+    subTitle: "Mp3 Player - Vue.js",
+    image: "projects/mp3Player.png",
+    color: "green",
+    tags: ["icons/vuejs.svg"],
+    links: {
+      github: "https://github.com/gogata05/Mp3-Player-Vue-Project-001"
     }
   }
 ];

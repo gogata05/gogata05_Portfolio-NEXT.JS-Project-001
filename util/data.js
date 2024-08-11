@@ -263,17 +263,28 @@ export const projectData = [
   },
   {
     id: 4,
+    title: "",
+    subTitle: "FastMeals-ASP.NET-Project-004",
+    image: "projects/FastMeals.png",
+    color: "pink",
+    tags: ["icons/csharp.svg", "icons/stripe.svg"],
+    links: {
+      github: "https://github.com/gogata05/FastMeals-ASP.NET-Project-004"
+    }
+  },
+  {
+    id: 5,
     title: "RestaurantDelivery- .NET-React-TypeScript-Project-001",
     subTitle: "Restaurant Delivery App - ASP.NET",
     image: "projects/RedMango-BE_.NET_Web_API.png",
     color: "green",
-    tags: ["icons/csharp.svg", "icons/react.svg", "icons/typescript.svg"],
+    tags: ["icons/csharp.svg", "icons/react.svg", "icons/typescript.svg", "icons/stripe.svg"],
     links: {
       github: "https://github.com/gogata05/RestaurantDelivery-.NET-React-TypeScript-Project-001"
     }
   },
   {
-    id: 5,
+    id: 6,
     title: "TourGuide-React-Project-001",
     subTitle: "Tour Guide Bus Destination App - React",
     image: "projects/ReactProject1.png",
@@ -285,7 +296,7 @@ export const projectData = [
     }
   },
   {
-    id: 6,
+    id: 7,
     title: "gogata05_Portfolio-NEXT.JS-Project-001",
     subTitle: "My Portfolio with NEXT.JS",
     image: "projects/Portfolio-NEXT.JS.png",
@@ -296,7 +307,7 @@ export const projectData = [
     }
   },
   {
-    id: 7,
+    id: 8,
     title: "Online_Document_Processor-NEXT.JS-Project-002",
     subTitle: "Google Docs Clone application",
     image: "projects/Online_Document_Processor.png",
@@ -307,7 +318,7 @@ export const projectData = [
     }
   },
   {
-    id: 8,
+    id: 9,
     title: "MealsToGo-React_Native-Project-001",
     subTitle: "Meals App - React Native",
     image: "projects/Meals_Stripe_Payment.png",
@@ -318,7 +329,7 @@ export const projectData = [
     }
   },
   {
-    id: 9,
+    id: 10,
     title: "SpaceTravel - Angular",
     subTitle: "Space Travel Trip App - Angular",
     image: "projects/SpaceTracelProject.jpg",
@@ -329,7 +340,7 @@ export const projectData = [
     }
   },
   {
-    id: 10,
+    id: 11,
     title: "Stockfish-API-Angular-Project-002",
     subTitle: "Chess Stockfish AI - Angular",
     image: "projects/chess.png",
@@ -340,7 +351,7 @@ export const projectData = [
     }
   },
   {
-    id: 11,
+    id: 12,
     title: "Mp3-Player-Vue-Project-001",
     subTitle: "Mp3 Player - Vue.js",
     image: "projects/mp3Player.png",

@@ -143,6 +143,12 @@ const certificates = [
     image: "/images/TypeScript - April 2024.png"
   },
   {
+    date: "June 2024",
+    title: "ReactJS",
+    link: "https://softuni.bg/trainings/4529/reactjs-june-2024",
+    image: "/images/ReactJS-June2024.png"
+  },
+  {
     date: "May 2024",
     title: "PostgreSQL",
     link: "https://softuni.bg/trainings/4536/postgresql-may-2024",

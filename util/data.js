@@ -171,12 +171,21 @@ export const educationData = [
   },
   {
     id: 18,
-    title: "SoftUni Software Engineering and DevOps",
+    title: "Software Engineering and DevOps",
     location: "Software University",
     text: "Comprehensive program covering software engineering principles, DevOps practices, CI/CD pipelines, and cloud deployment.",
     delay: 0.4,
     icons: ["icons/github.svg"],
     githubLink: "https://github.com/gogata05/SoftUni-Software-Engineering-and-DevOps-May-2024/blob/main/README.md"
+  },
+  {
+    id: 18,
+    title: "Container And Cloud",
+    location: "Software University",
+    text: "Containerization and cloud computing concepts, including Docker, Azure, Terraform, Grafana, and Prometheus.",
+    delay: 0.4,
+    icons: ["icons/github.svg"],
+    githubLink: "https://github.com/gogata05/SoftUni-Containers-and-Cloud-June-2024/blob/main/README.md"
   }
 ];
 

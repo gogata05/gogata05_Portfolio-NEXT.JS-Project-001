@@ -159,6 +159,12 @@ const certificates = [
     title: "Software E. and DevOps",
     link: "https://softuni.bg/trainings/4525/software-engineering-and-devops-may-2024",
     image: "/images/DevOps.png"
+  },
+  {
+    date: "June 2024",
+    title: "Container and Cloud",
+    link: "https://softuni.bg/trainings/4524/containers-and-cloud-july-2024",
+    image: "/images/ContainerAndCloudJune2024.png"
   }
 ];
 

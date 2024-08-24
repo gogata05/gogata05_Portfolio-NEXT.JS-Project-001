@@ -171,6 +171,15 @@ export const educationData = [
   },
   {
     id: 18,
+    title: "ReactJS",
+    location: "Software University",
+    text: "Introduction to ReactJS for web development, covering components, state management, and advanced ReactJS features.",
+    delay: 0.4,
+    icons: ["icons/reactjs.svg"],
+    githubLink: "https://github.com/gogata05/SoftUni-ReactJS-June-2024/blob/main/README.md"
+  },
+  {
+    id: 19,
     title: "Software Engineering and DevOps",
     location: "Software University",
     text: "Comprehensive program covering software engineering principles, DevOps practices, CI/CD pipelines, and cloud deployment.",
@@ -179,7 +188,7 @@ export const educationData = [
     githubLink: "https://github.com/gogata05/SoftUni-Software-Engineering-and-DevOps-May-2024/blob/main/README.md"
   },
   {
-    id: 18,
+    id: 20,
     title: "Container And Cloud",
     location: "Software University",
     text: "Containerization and cloud computing concepts, including Docker, Azure, Terraform, Grafana, and Prometheus.",

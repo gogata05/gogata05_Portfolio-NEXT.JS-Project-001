@@ -36,6 +36,12 @@ const Certificates = () => {
 const certificates = [
   {
     date: "October 2022 - May 2024",
+    title: "Diploma for C# Full-Stack Developer",
+    link: "https://softuni.bg/certificates/details/226035/4c9782f7",
+    image: "/images/CSharp_Full-Stack.png"
+  },
+  {
+    date: "October 2022 - May 2024",
     title: "Diploma for C# Web Developer",
     link: "https://softuni.bg/certificates/details/216179/78065f72",
     image: "/images/CSharp Web Developer.png"

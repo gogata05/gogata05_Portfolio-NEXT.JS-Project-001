@@ -56,61 +56,61 @@ const certificates = [
     date: "October 2022 - Retake",
     title: "C# Basic - RETAKE",
     link: "https://softuni.bg/trainings/3871/programming-basics-with-csharp-october-2022",
-    image: "/images/Programming Basic - October 2022 Retake.jfif"
+    image: "/images/Programming_Basic_October 2022-Retake.jfif"
   },
   {
     date: "January 2023",
     title: "C# Fundamentals",
     link: "https://softuni.bg/trainings/3950/programming-fundamentals-with-csharp-january-2023",
-    image: "/images/CSharp Fundamentals - January 2023.jfif"
+    image: "/images/CSharp_Fundamentals_January_2023.jfif"
   },
   {
     date: "May 2023",
     title: "C# Advanced",
     link: "https://softuni.bg/trainings/4098/csharp-advanced-may-2023",
-    image: "/images/CSharp Advanced - May 2023.jfif"
+    image: "/images/CSharp-Advanced_May-2023.jfif"
   },
   {
     date: "June 2023",
     title: "C# OOP",
     link: "https://softuni.bg/trainings/4099/csharp-oop-june-2023",
-    image: "/images/CSharpOOP-June2023.jfif"
+    image: "/images/CSharpOOPJune2023.jfif"
   },
   {
     date: "May 2023",
     title: "HTML & CSS",
     link: "https://softuni.bg/trainings/4114/html-and-css-may-2023",
-    image: "/images/HTML & CSS - May 2023.jfif"
+    image: "/images/HTML-CSS-May 2023.jfif"
   },
   {
     date: "June 2023",
     title: "JS Front-End",
     link: "https://softuni.bg/trainings/4113/js-front-end-june-2023",
-    image: "/images/JS Front-End - June 2023.jfif"
+    image: "/images/JS-Front-End-June-2023.jfif"
   },
   {
     date: "September 2023",
     title: "MS SQL",
     link: "https://softuni.bg/trainings/4182/ms-sql-september-2023",
-    image: "/images/MS SQL - September 2023.jfif"
+    image: "/images/MSSQLSeptember2023.jfif"
   },
   {
     date: "October 2023",
     title: "Entity Framework Core",
     link: "https://softuni.bg/trainings/4234/entity-framework-core-october-2023",
-    image: "/images/Entity Framework Core - October 2023.jfif"
+    image: "/images/EntityFrameworkCoreOctober2023.jfif"
   },
   {
     date: "September 2023",
     title: "JS Advanced",
     link: "https://softuni.bg/trainings/4227/js-advanced-september-2023",
-    image: "/images/JS Advanced - September 2023.jfif"
+    image: "/images/JSAdvancedSeptember2023.jfif"
   },
   {
     date: "October 2023",
     title: "JS Applications",
     link: "https://softuni.bg/trainings/4228/js-applications-october-2023",
-    image: "/images/JS Applications - October 2023.jfif"
+    image: "/images/JSApplicationsOctober2023.jfif"
   },
   {
     date: "November 2023",
@@ -122,31 +122,31 @@ const certificates = [
     date: "January 2024",
     title: "JS Back-End",
     link: "https://softuni.bg/trainings/4364/js-back-end-january-2024",
-    image: "/images/JS Back-End - January 2024.jfif"
+    image: "/images/JSBackEndJanuary2024.jfif"
   },
   {
     date: "January 2024",
     title: "ASP.NET Fundamentals",
     link: "https://softuni.bg/trainings/4367/asp-net-fundamentals-january-2024",
-    image: "/images/ASP.NET Fundamentals - January 2024.jfif"
+    image: "/images/ASP.NETFundamentalsJanuary2024.jfif"
   },
   {
     date: "February 2024",
     title: "ASP.NET Advanced",
     link: "https://softuni.bg/trainings/4369/asp-net-advanced-february-2024",
-    image: "/images/ASP.NET Advanced - February 2024.jfif"
+    image: "/images/ASP.NETAdvancedFebruary2024.jfif"
   },
   {
     date: "February 2024",
     title: "Angular",
     link: "https://softuni.bg/trainings/4363/angular-february-2024",
-    image: "/images/Angular - Ferbruary 2024.jfif"
+    image: "/images/AngularFerbruary2024.jfif"
   },
   {
     date: "April 2024",
     title: "TypeScript",
     link: "https://softuni.bg/trainings/4550/typescript-april-2024",
-    image: "/images/TypeScript - April 2024.png"
+    image: "/images/TypeScriptApril2024.png"
   },
   {
     date: "June 2024",

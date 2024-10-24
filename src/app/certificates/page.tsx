@@ -35,6 +35,12 @@ const Certificates = () => {
 };
 const certificates = [
   {
+    date: "May 2024 - October 2024",
+    title: "Intern Certificate Cost-Effective",
+    link: "https://huutgnkansvslafnbtbg.supabase.co/storage/v1/object/public/files/certificates/season1/Certificate-Intern-Georgi-Markov.pdf",
+    image: "/images/InternAndTechLeadAcademy.png"
+  },
+  {
     date: "October 2022 - May 2024",
     title: "Diploma for C# Full-Stack Developer",
     link: "https://softuni.bg/certificates/details/226035/4c9782f7",

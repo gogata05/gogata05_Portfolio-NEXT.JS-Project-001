@@ -386,7 +386,7 @@ export const internshipsData = [
   {
     id: 2,
     title: "Self Guided Tour",
-    company: "Cost-Effective-Software",
+    company: "Cost-Effective-Solutions",
     season: 2,
     date: "05/2024 - 10/2024",
     features: [".NET", "NEXT.JS"],
@@ -395,7 +395,7 @@ export const internshipsData = [
   {
     id: 1,
     title: "Cooking App",
-    company: "Cost-Effective-Software",
+    company: "Cost-Effective-Solutions",
     season: 2,
     date: "05/2024 - 10/2024",
     features: [".NET", "React", "React Native"],

@@ -11,7 +11,8 @@ export const data = {
     { name: "Learn more", href: "/about" },
     { name: "Projects", href: "/about/#projects" },
     { name: "Contacts", href: "/about/#contacts" },
-    { name: "Certificates", href: "/certificates" }
+    { name: "Certificates", href: "/certificates" },
+    { name: "Internships", href: "/internships" }
   ]
 };
 
@@ -378,5 +379,26 @@ export const projectData = [
     links: {
       github: "https://github.com/gogata05/Mp3-Player-Vue-Project-001"
     }
+  }
+];
+
+export const internshipsData = [
+  {
+    id: 2,
+    title: "Self Guided Tour",
+    company: "Cost-Effective-Software",
+    season: 2,
+    date: "05/2024 - 10/2024",
+    features: [".NET", "React", "React Native"],
+    role: "Full-Stack"
+  },
+  {
+    id: 1,
+    title: "Cooking App",
+    company: "Cost-Effective-Software",
+    season: 2,
+    date: "05/2024 - 10/2024",
+    features: [".NET", "NEXT.JS"],
+    role: "Backend"
   }
 ];

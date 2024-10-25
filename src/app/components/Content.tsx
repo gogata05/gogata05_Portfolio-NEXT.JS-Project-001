@@ -1,3 +1,4 @@
+// src\app\components\Content.tsx
 "use client";
 import React, { useState } from "react";
 import { motion } from "framer-motion";

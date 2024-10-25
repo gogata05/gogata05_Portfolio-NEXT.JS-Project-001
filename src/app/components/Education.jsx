@@ -1,3 +1,4 @@
+// src\app\components\Education.jsx
 "use client";
 import React, { useState } from "react";
 import { motion } from "framer-motion";

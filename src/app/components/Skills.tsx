@@ -1,3 +1,4 @@
+// src\app\components\Skills.tsx
 "use client";
 import React, { useState } from "react";
 import { projectData, skills } from "../../../util/data";

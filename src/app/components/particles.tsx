@@ -1,3 +1,4 @@
+// src\app\components\particles.tsx
 "use client";
 
 import React, { useRef, useEffect, useState } from "react";

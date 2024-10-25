@@ -1,3 +1,4 @@
+// src\app\components\Projects.jsx
 "use client";
 import React, { useState } from "react";
 import { projectData, skills } from "../../../util/data";

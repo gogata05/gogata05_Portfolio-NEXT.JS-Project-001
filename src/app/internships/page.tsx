@@ -8,7 +8,7 @@ import Header from "../components/Header";
 
 const InternshipsPage = () => {
   return (
-    <div className="bg-black overflow-x-hidden">
+    <div className="bg-black overflow-x-hidden min-h-screen">
       <Header />
       <Internships props={internshipsData} />
     </div>

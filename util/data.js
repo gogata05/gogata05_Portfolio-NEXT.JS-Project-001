@@ -389,8 +389,8 @@ export const internshipsData = [
     company: "Cost-Effective-Software",
     season: 2,
     date: "05/2024 - 10/2024",
-    features: [".NET", "React", "React Native"],
-    role: "Full-Stack"
+    features: [".NET", "NEXT.JS"],
+    role: "Backend"
   },
   {
     id: 1,
@@ -398,7 +398,7 @@ export const internshipsData = [
     company: "Cost-Effective-Software",
     season: 2,
     date: "05/2024 - 10/2024",
-    features: [".NET", "NEXT.JS"],
-    role: "Backend"
+    features: [".NET", "React", "React Native"],
+    role: "Full-Stack"
   }
 ];

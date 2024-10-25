@@ -36,9 +36,15 @@ const Certificates = () => {
 const certificates = [
   {
     date: "May 2024 - October 2024",
-    title: "Intern Certificate Cost-Effective",
+    title: "Intern Certificate 1 Self Guided Tour",
     link: "https://huutgnkansvslafnbtbg.supabase.co/storage/v1/object/public/files/certificates/season1/Certificate-Intern-Georgi-Markov.pdf",
-    image: "/images/InternAndTechLeadAcademy.png"
+    image: "/images/InternAndTechLeadAcademySelfGuidedTour.png"
+  },
+  {
+    date: "May 2024 - October 2024",
+    title: "Intern Certificate 2 Cooking App",
+    link: "https://huutgnkansvslafnbtbg.supabase.co/storage/v1/object/public/files/certificates/season1/Certificate-Intern-Georgi-Markov-3694bc49-b5df-455b-b304-f2a8ded361c8.pdf",
+    image: "/images/InternAndTechLeadAcademyCookingApp.png"
   },
   {
     date: "October 2022 - May 2024",

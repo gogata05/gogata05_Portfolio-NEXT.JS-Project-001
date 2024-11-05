@@ -379,6 +379,17 @@ export const projectData = [
     links: {
       github: "https://github.com/gogata05/Mp3-Player-Vue-Project-001"
     }
+  },
+  {
+    id: 12,
+    title: "PawnShop-Vue-Project-002",
+    subTitle: "PawnShop - Vue.js",
+    image: "projects/pawnshop.png",
+    color: "blue",
+    tags: ["icons/vuejs.svg"],
+    links: {
+      github: "https://github.com/gogata05/PawnShop-Vue-Project-002"
+    }
   }
 ];
 

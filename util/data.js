@@ -402,7 +402,7 @@ export const internshipsData = [
     date: "05/2024-10/2024",
     project: "Cooking App",
     details: "Cooking App AI that integrates ChatGPT API to create recipes.",
-    features: [".NET", "Next.JS", "React Native", "Tailwind CSS", "ChatGPT API integration", "MongoDB", "Azure Active Directory", "Stripe", "Docker", "SonarCloud"],
+    features: [".NET", "Next.JS", "React Native", "Tailwind CSS", "MongoDB", "ChatGPT API integration", "Azure Active Directory", "Stripe", "Docker", "Expo", "SonarCloud"],
     team: ["David Petkov (Leader)", "Georgi Markov", "David Hristov", "Krusti Ivanov", "Ekrem Beytula", "Panayot Petkov", "Mihail Donchev"],
     position: "Full-Stack"
   },
@@ -414,8 +414,20 @@ export const internshipsData = [
     date: "05/2024-10/2024",
     project: "Self-Guided Tours",
     details: "Travel App that serves to sell Self-Guided Tours that are using Google Maps API.",
-    features: ["React", ".NET", "Next.js", "Tailwind CSS", "Azure", "Stripe", "Google Maps", "SonarCloud"],
+    features: [".NET", "Next.js", "React", "Tailwind CSS", "MS SQL", "Azure", "Stripe", "Google Maps", "SonarCloud"],
     team: ["Zhivko Uzunov (Leader)", "Georgi Markov", "Stiliyan Iliev", "Mihael Yordanov", "Vasil Lyubenov", "Lora Mitova", "Ayturul Yumer", "Martin Kovachki"],
     position: "Back-End"
+  },
+  {
+    id: 3,
+    number: "03",
+    name: "Intern & Tech Lead Academy 2",
+    corporation: "Cost-Effective-Solutions",
+    date: "05/2024-10/2024",
+    project: "Pawn Shop",
+    details: "Pawn Shop App that serves to sell and buy products.",
+    features: ["Angular", "Java", "PostgresSQL", "Stripe"],
+    team: ["Dimitar Dobrev (FE Leader)", "Radoslav Georgiev (BE Leader)", "Georgi Markov", "Panayot Petkov", "Petar Mitov", "Emil Kyurpekov"],
+    position: "Front-End"
   }
 ];

@@ -53,7 +53,9 @@ function Header({}: Props) {
           }}
           className="flex flex-row item-center text-gray-300 cursor-pointer">
           <SocialIcon className="cursor-pointer" network="email" fgColor="gray" bgColor="transparent" />
-          <p className="uppercase hidden md:inline-flex text-sm text-gray-400 text-center items-center p-2 hover:text-[#2ed3db] hover:animate-spin focus-within:shadow-lg">Lets Get in Touch</p>
+          <p className="uppercase hidden md:inline-flex text-sm text-gray-400 text-center items-center p-2 hover:text-[#2ed3db] hover:animate-spin focus-within:shadow-lg">
+            Lets Get in Touch
+          </p>
         </motion.div>
       </Link>
     </header>

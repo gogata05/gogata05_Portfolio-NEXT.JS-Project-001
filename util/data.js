@@ -396,6 +396,7 @@ export const projectData = [
 export const internshipsData = [
   {
     id: 1,
+    number: "01",
     name: "Intern & Tech Lead Academy 2",
     corporation: "Cost-Effective-Solutions",
     date: "05/2024-10/2024",
@@ -407,6 +408,7 @@ export const internshipsData = [
   },
   {
     id: 2,
+    number: "02",
     name: "Intern & Tech Lead Academy 2",
     corporation: "Cost-Effective-Solutions",
     date: "05/2024-10/2024",

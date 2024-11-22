@@ -22,6 +22,11 @@ function Internships({ props }) {
                 </div>
 
                 <div>
+                  <h3 className="font-semibold text-gray-700">Project:</h3>
+                  <p className="text-gray-600">{internship.project}</p>
+                </div>
+
+                <div>
                   <h3 className="font-semibold text-gray-700">Details:</h3>
                   <p className="text-gray-600">{internship.details}</p>
                 </div>

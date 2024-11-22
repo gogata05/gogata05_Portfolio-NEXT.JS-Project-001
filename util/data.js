@@ -395,21 +395,51 @@ export const projectData = [
 
 export const internshipsData = [
   {
-    id: 2,
-    title: "Self Guided Tour",
-    company: "Cost-Effective-Solutions",
-    season: 2,
-    date: "05/2024 - 10/2024",
-    features: [".NET", "NEXT.JS"],
-    role: "Backend"
+    id: 1,
+    name: "Intern & Tech Lead Academy 2",
+    corporation: "Cost-Effective-Solutions",
+    date: "05/2024-10/2024",
+    details: "Working in a team of 8 as a Backend Devoloper on a Travel App that serves to sell self-guided tours.",
+    features: ["React", ".NET", "Next.js", "Azure", "Stripe", "Google Maps"],
+    team: [
+      "Zhivko Uzunov (Leader)",
+      "Georgi Markov",
+      "Stiliyan Iliev",
+      "Mihael Yordanov",
+      "Vasil Lyubenov",
+      "Lora Mitova",
+      "Ayturul Yumer",
+      "Martin Kovachki"
+    ],
+    position: "Back-End"
   },
   {
-    id: 1,
-    title: "Cooking App",
-    company: "Cost-Effective-Solutions",
-    season: 2,
-    date: "05/2024 - 10/2024",
-    features: [".NET", "React", "React Native"],
-    role: "Full-Stack"
+    id: 2,
+    name: "Intern & Tech Lead Academy 2",
+    corporation: "Cost-Effective-Solutions",
+    date: "05/2024-10/2024",
+    details: "Working in a team of 7 as a Full Stack Devoloper on a Cooking App that integrates ChatGPT API.",
+    features: [
+      "React Native",
+      ".NET Web API",
+      "Next.JS",
+      "Tailwind CSS",
+      "ChatGPT API integration",
+      "MongoDB",
+      "Azure Active Directory",
+      "Stripe",
+      "Docker",
+      "SonarCloud"
+    ],
+    team: [
+      "David Petkov (Leader)",
+      "Georgi Markov",
+      "David Hristov",
+      "Krusti Ivanov",
+      "Ekrem Beytula",
+      "Panayot Petkov",
+      "Mihail Donchev"
+    ],
+    position: "Full-Stack"
   }
 ];

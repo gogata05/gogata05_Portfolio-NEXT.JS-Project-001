@@ -399,18 +399,9 @@ export const internshipsData = [
     name: "Intern & Tech Lead Academy 2",
     corporation: "Cost-Effective-Solutions",
     date: "05/2024-10/2024",
-    details: "Working in a team of 8 as a Backend Devoloper on a Travel App that serves to sell self-guided tours.",
-    features: ["React", ".NET", "Next.js", "Azure", "Stripe", "Google Maps"],
-    team: [
-      "Zhivko Uzunov (Leader)",
-      "Georgi Markov",
-      "Stiliyan Iliev",
-      "Mihael Yordanov",
-      "Vasil Lyubenov",
-      "Lora Mitova",
-      "Ayturul Yumer",
-      "Martin Kovachki"
-    ],
+    details: "Travel App that serves to sell Self-Guided Tours that are using Google Maps API.",
+    features: ["React", ".NET", "Next.js", "Tailwind CSS", "Azure", "Stripe", "Google Maps", "SonarCloud"],
+    team: ["Zhivko Uzunov (Leader)", "Georgi Markov", "Stiliyan Iliev", "Mihael Yordanov", "Vasil Lyubenov", "Lora Mitova", "Ayturul Yumer", "Martin Kovachki"],
     position: "Back-End"
   },
   {
@@ -418,28 +409,9 @@ export const internshipsData = [
     name: "Intern & Tech Lead Academy 2",
     corporation: "Cost-Effective-Solutions",
     date: "05/2024-10/2024",
-    details: "Working in a team of 7 as a Full Stack Devoloper on a Cooking App that integrates ChatGPT API.",
-    features: [
-      "React Native",
-      ".NET Web API",
-      "Next.JS",
-      "Tailwind CSS",
-      "ChatGPT API integration",
-      "MongoDB",
-      "Azure Active Directory",
-      "Stripe",
-      "Docker",
-      "SonarCloud"
-    ],
-    team: [
-      "David Petkov (Leader)",
-      "Georgi Markov",
-      "David Hristov",
-      "Krusti Ivanov",
-      "Ekrem Beytula",
-      "Panayot Petkov",
-      "Mihail Donchev"
-    ],
+    details: "Cooking App AI that integrates ChatGPT API to create recipes.",
+    features: [".NET", "Next.JS", "React Native", "Tailwind CSS", "ChatGPT API integration", "MongoDB", "Azure Active Directory", "Stripe", "Docker", "SonarCloud"],
+    team: ["David Petkov (Leader)", "Georgi Markov", "David Hristov", "Krusti Ivanov", "Ekrem Beytula", "Panayot Petkov", "Mihail Donchev"],
     position: "Full-Stack"
   }
 ];

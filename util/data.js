@@ -430,4 +430,28 @@ export const internshipsData = [
     team: ["Dimitar Dobrev (FE Leader)", "Radoslav Georgiev (BE Leader)", "Georgi Markov", "Panayot Petkov", "Petar Mitov", "Emil Kyurpekov"],
     position: "Front-End"
   }
+  // {
+  //   id: 4,
+  //   number: "04",
+  //   name: "Intern & Tech Lead Academy 2",
+  //   corporation: "Cost-Effective-Solutions",
+  //   date: "11/2024-current",
+  //   project: "Paxity",
+  //   details: "Paxity is a platform for creating and sharing AI-powered images.",
+  //   features: ["Vue.js", "Python", "PostgreSQL", "RabbitMQ", "Docker"],
+  //   team: ["Emilian Ognyanov (Leader)", "Georgi Markov", "Georgi Lukanov", "Ivan Parcunev", "Simeon Zhelinski", "Velin Iliev", "Yordan Dobrev", "Todor Krumov"],
+  //   position: "Front-End"
+  // },
+  // {
+  //   id: 5,
+  //   number: "05",
+  //   name: "Intern & Tech Lead Academy 2",
+  //   corporation: "Cost-Effective-Solutions",
+  //   date: "11/2024-current",
+  //   project: "",
+  //   details: "",
+  //   features: ["ReactJS", "Node.js", "MySQL", "Docker"],
+  //   team: ["Zhivko Uzunov (Leader)", "Georgi Markov", "Stiliyan Iliev", "Mihael Yordanov", "Vasil Lyubenov", "Lora Mitova", "Ayturul Yumer"],
+  //   position: "Back-End"
+  // }
 ];

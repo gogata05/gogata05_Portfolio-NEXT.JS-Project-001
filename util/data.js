@@ -449,7 +449,7 @@ export const internshipsData = [
     corporation: "Cost-Effective-Solutions",
     date: "11/2024-Current",
     project: "",
-    details: "",
+    details: "Workman project that serves to manage workers and their tasks.",
     features: ["ReactJS", "Node.js", "MySQL", "Docker"],
     team: ["Zhivko Uzunov (Leader)", "Georgi Markov", "Stiliyan Iliev", "Mihael Yordanov", "Vasil Lyubenov", "Lora Mitova", "Ayturul Yumer"],
     position: "Full-Stack"

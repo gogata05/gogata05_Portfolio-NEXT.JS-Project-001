@@ -447,11 +447,11 @@ export const internshipsData = [
     number: "05",
     name: "Intern & Tech Lead Academy 2",
     corporation: "Cost-Effective-Solutions",
-    date: "11/2024-CSurrent",
+    date: "11/2024-Current",
     project: "",
     details: "",
     features: ["ReactJS", "Node.js", "MySQL", "Docker"],
     team: ["Zhivko Uzunov (Leader)", "Georgi Markov", "Stiliyan Iliev", "Mihael Yordanov", "Vasil Lyubenov", "Lora Mitova", "Ayturul Yumer"],
-    position: "Back-End"
+    position: "Full-Stack"
   }
 ];

@@ -9,8 +9,9 @@ export const data = {
   ],
   navigation: [
     { name: "Learn more", href: "/about" },
+    // { name: "Contacts", href: "/about/#contacts" },
+    { name: "Recommendations", href: "https://www.linkedin.com/in/georgi-markov-57b5b224b/details/recommendations/" },
     { name: "Projects", href: "/about/#projects" },
-    { name: "Contacts", href: "/about/#contacts" },
     { name: "Certificates", href: "/certificates" },
     { name: "Internships", href: "/internships" }
   ]

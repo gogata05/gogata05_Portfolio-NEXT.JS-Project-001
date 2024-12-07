@@ -110,6 +110,15 @@ function Hero({}: Props) {
             </button>
           </Link>
 
+          <Link href="https://www.linkedin.com/in/georgi-markov-57b5b224b/details/recommendations/" target="_blank">
+            <button
+              className="heroButton px-6 py-2 border border-[#242424] rounded-full mt-2  uppercase text-xs
+        tracking-widest text-gray-500 transition-all
+         hover:border-[#F74AB0]/40 hover:text-[#2ed3db]/60">
+              Recommendations
+            </button>
+          </Link>
+
           {/* <Link href="/certificates">
             <button className="heroButton">Certificates</button>
           </Link> */}

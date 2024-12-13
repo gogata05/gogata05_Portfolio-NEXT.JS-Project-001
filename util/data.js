@@ -439,9 +439,9 @@ export const internshipsData = [
     date: "10/2024-Current",
     project: "Paxity",
     details: "Paxity is a platform for creating and sharing AI-powered images.",
-    features: ["Vue.js", "Python", "PostgreSQL", "RabbitMQ", "Docker"],
-    team: ["Emilian Ognyanov (Leader)", "Georgi Markov", "Georgi Lukanov", "Ivan Parcunev", "Simeon Zhelinski", "Velin Iliev", "Yordan Dobrev", "Todor Krumov"],
-    position: "Front-End"
+    features: [".NET", "Vue.js", "PostgreSQL", "Docker", "Open AI API", "Stripe"],
+    team: ["Emilian Ognyanov (Leader)", "Georgi Markov", "Iliyan Ihadzhiev", "Todor Krumov", "Yordan Dobrev", "Velin Iliev", "Georgi Lukanov", "Ivan Parcunev", "Simeon Zhelinski"],
+    position: "Full-Stack"
   },
   {
     id: 5,
@@ -451,8 +451,8 @@ export const internshipsData = [
     date: "10/2024-Current",
     project: "",
     details: "Workman project that serves to manage workers and their tasks.",
-    features: ["ReactJS", "Node.js", "MySQL", "Docker"],
-    team: ["Zhivko Uzunov (Leader)", "Georgi Markov", "Stiliyan Iliev", "Mihael Yordanov", "Vasil Lyubenov", "Lora Mitova", "Ayturul Yumer"],
+    features: ["ReactJS", "Node.js", "TypeScript", "MySQL", "Docker"],
+    team: ["Zhivko Uzunov (Leader)", "Georgi Markov", "Stiliyan Iliev", "Mihael Yordanov", "Vasil Lyubenov", "Lora Mitova", "Ayturul Yumer", "Pavel Tabakov"],
     position: "Full-Stack"
   }
 ];

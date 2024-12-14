@@ -440,7 +440,7 @@ export const internshipsData = [
     project: "Paxity",
     details: "Paxity is a platform for creating and sharing AI-powered images.",
     features: [".NET", "Vue.js", "PostgreSQL", "Docker", "Open AI API", "Stripe"],
-    team: ["Emilian Ognyanov (Leader)", "Georgi Markov", "Iliyan Ihadzhiev", "Todor Krumov", "Yordan Dobrev", "Velin Iliev", "Georgi Lukanov", "Ivan Parcunev", "Simeon Zhelinski"],
+    team: ["Emilian Ognyanov (Leader)", "Georgi Markov", "Iliyan Ihadzhiev", "Todor Krumov", "Velin Iliev", "Georgi Lukanov", "Ivan Parcunev", "Simeon Zhelinski", "Yordan Dobrev"],
     position: "Full-Stack"
   },
   {
@@ -449,8 +449,8 @@ export const internshipsData = [
     name: "Intern & Tech Lead Academy 2",
     corporation: "Cost-Effective-Solutions",
     date: "10/2024-Current",
-    project: "",
-    details: "Workman project that serves to manage workers and their tasks.",
+    project: "Building Management",
+    details: "Building Management System that serves to manage workers and their tasks.",
     features: ["ReactJS", "Node.js", "TypeScript", "MySQL", "Docker"],
     team: ["Zhivko Uzunov (Leader)", "Georgi Markov", "Stiliyan Iliev", "Mihael Yordanov", "Vasil Lyubenov", "Lora Mitova", "Ayturul Yumer", "Pavel Tabakov"],
     position: "Full-Stack"

@@ -185,5 +185,4 @@ const certificates = [
     image: "/images/ContainerAndCloudJune2024.png"
   }
 ];
-
 export default Certificates;

@@ -434,7 +434,7 @@ export const internshipsData = [
   {
     id: 4,
     number: "04",
-    name: "Intern & Tech Lead Academy 2",
+    name: "Intern & Tech Lead Academy 3",
     corporation: "Cost-Effective-Solutions",
     date: "10/2024-Current",
     project: "Paxity",
@@ -446,13 +446,13 @@ export const internshipsData = [
   {
     id: 5,
     number: "05",
-    name: "Intern & Tech Lead Academy 2",
+    name: "Intern & Tech Lead Academy 3",
     corporation: "Cost-Effective-Solutions",
     date: "10/2024-Current",
     project: "Building Management",
     details: "Building Management System that serves to manage workers and their tasks.",
     features: ["ReactJS", "Node.js", "TypeScript", "MySQL", "Docker"],
-    team: ["Zhivko Uzunov (Leader)", "Georgi Markov", "Stiliyan Iliev", "Mihael Yordanov", "Vasil Lyubenov", "Lora Mitova", "Ayturul Yumer", "Pavel Tabakov"],
+    team: ["Zhivko Uzunov (Leader)", "Georgi Markov", "Stiliyan Iliev", "Mihael Yordanov", "Lora Mitova",],
     position: "Full-Stack"
   }
 ];

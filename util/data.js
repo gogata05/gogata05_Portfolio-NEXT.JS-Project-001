@@ -473,10 +473,10 @@ export const internshipsData = [
     name: "Intern & Tech Lead Academy 3",
     corporation: "Cost-Effective-Solutions",
     date: "10/2024-Current",
-    project: "Talking Letters",
-    details: "AI App that helps children learn letters by explaining them.",
+    project: "Aquaware",
+    details: "App that helps saving water in the house.",
     features: ["ReactJS", "Node.js", "MongoDB", "Open AI API", "Google Cloud"],
-    team: ["Sia Simova (Leader)", "Georgi Markov", "IDzhem Syuleyman", "Diana Mitkova"],
+    team: ["Sia Simova (Leader)", "Georgi Markov", "IDzhem Syuleyman", "Diana Mitkova", "Valentina Kamburova"],
     position: "Dev Ops"
   }
 ];

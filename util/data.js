@@ -436,6 +436,18 @@ export const internshipsData = [
     number: "04",
     name: "Intern & Tech Lead Academy 3",
     corporation: "Cost-Effective-Solutions",
+    date: "10/2024-02/2025",
+    project: "Aquaware",
+    details: "App that helps saving water in the house.",
+    features: ["ReactJS", "Node.js", "MongoDB", "Open AI API", "Google Cloud", "AWS", "Expo"],
+    team: ["Sia Simova (Leader)", "Georgi Markov", "IDzhem Syuleyman", "Diana Mitkova", "Valentina Kamburova"],
+    position: "Dev Ops"
+  },
+  {
+    id: 5,
+    number: "05",
+    name: "Intern & Tech Lead Academy 3",
+    corporation: "Cost-Effective-Solutions",
     date: "10/2024-Current",
     project: "Paxity",
     details: "Paxity is a platform for creating and sharing AI-powered images.",
@@ -444,8 +456,8 @@ export const internshipsData = [
     position: "Full-Stack"
   },
   {
-    id: 5,
-    number: "05",
+    id: 6,
+    number: "06",
     name: "Intern & Tech Lead Academy 3",
     corporation: "Cost-Effective-Solutions",
     date: "10/2024-Current",
@@ -456,8 +468,8 @@ export const internshipsData = [
     position: "Full-Stack"
   },
   {
-    id: 6,
-    number: "06",
+    id: 7,
+    number: "07",
     name: "Intern & Tech Lead Academy 3",
     corporation: "Cost-Effective-Solutions",
     date: "10/2024-Current",
@@ -466,17 +478,5 @@ export const internshipsData = [
     features: ["ReactJS", "Node.js", "MongoDB", "Open AI API", "Google Cloud"],
     team: ["Tatiana Apostolova (Leader)", "Georgi Markov", "Iliyan Ihadzhiev", "Mario Ivanov", "Aleksandar Kamburov", "Teodor Adamov", "Martina Vangelova", "Silviya Georgieva"],
     position: "Full-Stack"
-  },
-  {
-    id: 7,
-    number: "07",
-    name: "Intern & Tech Lead Academy 3",
-    corporation: "Cost-Effective-Solutions",
-    date: "10/2024-Current",
-    project: "Aquaware",
-    details: "App that helps saving water in the house.",
-    features: ["ReactJS", "Node.js", "MongoDB", "Open AI API", "Google Cloud"],
-    team: ["Sia Simova (Leader)", "Georgi Markov", "IDzhem Syuleyman", "Diana Mitkova", "Valentina Kamburova"],
-    position: "Dev Ops"
   }
 ];

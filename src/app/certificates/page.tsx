@@ -188,7 +188,7 @@ const certificates = [
     date: "November 2023",
     title: "Vue.js",
     link: "https://softuni.bg/trainings/4808/vuejs-november-2024",
-    image: "/images/vuejs.svg"
+    image: "/images/VueJSNovember2024.png"
   }
 ];
 export default Certificates;

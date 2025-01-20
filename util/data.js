@@ -197,6 +197,15 @@ export const educationData = [
     delay: 0.4,
     icons: ["icons/github.svg"],
     githubLink: "https://github.com/gogata05/SoftUni-Containers-and-Cloud-June-2024/blob/main/README.md"
+  },
+  {
+    id: 21,
+    title: "Vue.js",
+    location: "Software University",
+    text: "Introduction to Vue.js for building client-side applications, covering components, state management, and advanced Vue.js features.",
+    delay: 0.4,
+    icons: ["icons/vuejs.svg"],
+    githubLink: "https://github.com/gogata05/SoftUni-VueJS-November-2023/blob/main/README.md"
   }
 ];
 

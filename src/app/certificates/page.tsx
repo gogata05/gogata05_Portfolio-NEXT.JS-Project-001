@@ -183,6 +183,12 @@ const certificates = [
     title: "Container and Cloud",
     link: "https://softuni.bg/trainings/4524/containers-and-cloud-july-2024",
     image: "/images/ContainerAndCloudJune2024.png"
+  },
+  {
+    date: "November 2023",
+    title: "Vue.js",
+    link: "https://softuni.bg/trainings/4808/vuejs-november-2024",
+    image: "/images/vuejs.svg"
   }
 ];
 export default Certificates;

@@ -412,7 +412,7 @@ export const internshipsData = [
     date: "05/2024-10/2024",
     project: "Cooking App",
     details: "Cooking App AI that integrates ChatGPT API to create recipes.",
-    features: [".NET", "Next.JS", "React Native", "Tailwind CSS", "MongoDB", "ChatGPT API integration", "Azure Active Directory", "Stripe", "Docker", "Expo", "SonarCloud"],
+    features: [".NET", "Next.JS", "React Native", "Tailwind CSS", "MongoDB", "Open AI API", "Azure Active Directory", "Stripe", "Docker", "Expo", "SonarCloud"],
     team: ["David Petkov (Leader)", "Georgi Markov", "David Hristov", "Krusti Ivanov", "Ekrem Beytula", "Panayot Petkov", "Mihail Donchev"],
     position: "Full-Stack"
   },
@@ -424,7 +424,7 @@ export const internshipsData = [
     date: "05/2024-10/2024",
     project: "Self-Guided Tours",
     details: "Travel App that serves to sell Self-Guided Tours that are using Google Maps API.",
-    features: [".NET", "Next.js", "React", "Tailwind CSS", "MS SQL", "Azure", "Stripe", "Google Maps", "SonarCloud"],
+    features: [".NET", "Next.js", "React", "Tailwind CSS", "MS SQL", "Azure", "Stripe", "Google Maps", "SonarCloud", "SASS"],
     team: ["Zhivko Uzunov (Leader)", "Georgi Markov", "Stiliyan Iliev", "Mihael Yordanov", "Vasil Lyubenov", "Lora Mitova", "Ayturul Yumer", "Martin Kovachki"],
     position: "Back-End"
   },
@@ -472,7 +472,7 @@ export const internshipsData = [
     date: "10/2024-Current",
     project: "Building Management",
     details: "Building Management System that serves to manage workers and their tasks.",
-    features: ["ReactJS", "Node.js", "TypeScript", "MySQL", "Docker"],
+    features: ["ReactJS", "Node.js", "TypeScript", "MySQL", "AWS"],
     team: ["Zhivko Uzunov (Leader)", "Georgi Markov", "Stiliyan Iliev", "Mihael Yordanov", "Lora Mitova"],
     position: "Full-Stack"
   },
@@ -484,7 +484,7 @@ export const internshipsData = [
     date: "10/2024-Current",
     project: "Talking Letters",
     details: "AI App that helps children learn letters by explaining them.",
-    features: ["ReactJS", "Node.js", "MongoDB", "Open AI API", "Google Cloud"],
+    features: ["ReactJS", "Node.js", "MongoDB", "Open AI API", "Google Cloud", "Docker", "AWS"],
     team: ["Tatiana Apostolova (Leader)", "Georgi Markov", "Iliyan Ihadzhiev", "Mario Ivanov", "Aleksandar Kamburov", "Teodor Adamov", "Martina Vangelova", "Silviya Georgieva"],
     position: "Full-Stack"
   }

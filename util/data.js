@@ -454,22 +454,10 @@ export const internshipsData = [
   },
   {
     id: 5,
-    number: "05",
-    name: "Intern & Tech Lead Academy 3",
-    corporation: "Cost-Effective-Solutions",
-    date: "10/2024-Current",
-    project: "Paxity",
-    details: "Paxity is a platform for creating and sharing AI-powered images.",
-    features: [".NET", "Vue.js", "PostgreSQL", "Docker", "Open AI API", "Stripe"],
-    team: ["Emilian Ognyanov (Leader)", "Georgi Markov", "Iliyan Ihadzhiev", "Todor Krumov", "Velin Iliev", "Georgi Lukanov", "Ivan Parcunev", "Simeon Zhelinski", "Yordan Dobrev", "Aleksandar Kamburov"],
-    position: "Full-Stack"
-  },
-  {
-    id: 6,
     number: "06",
     name: "Intern & Tech Lead Academy 3",
     corporation: "Cost-Effective-Solutions",
-    date: "10/2024-Current",
+    date: "10/2024-02/2025",
     project: "Building Management",
     details: "Building Management System that serves to manage workers and their tasks.",
     features: ["ReactJS", "Node.js", "TypeScript", "MySQL", "AWS"],
@@ -477,15 +465,29 @@ export const internshipsData = [
     position: "Full-Stack"
   },
   {
-    id: 7,
+    id: 6,
     number: "07",
     name: "Intern & Tech Lead Academy 3",
     corporation: "Cost-Effective-Solutions",
     date: "10/2024-Current",
     project: "Talking Letters",
     details: "AI App that helps children learn letters by explaining them.",
+
     features: ["ReactJS", "Node.js", "MongoDB", "Open AI API", "Google Cloud", "Docker", "AWS"],
     team: ["Tatiana Apostolova (Leader)", "Georgi Markov", "Iliyan Ihadzhiev", "Mario Ivanov", "Aleksandar Kamburov", "Teodor Adamov", "Martina Vangelova", "Silviya Georgieva"],
+    position: "Full-Stack"
+  },
+  {
+    id: 7,
+    number: "05",
+    name: "Intern & Tech Lead Academy 3",
+    corporation: "Cost-Effective-Solutions",
+    date: "10/2024-Current",
+    project: "Paxity",
+
+    details: "Paxity is a platform for creating and sharing AI-powered images.",
+    features: [".NET", "Vue.js", "PostgreSQL", "Docker", "Open AI API", "Stripe"],
+    team: ["Emilian Ognyanov (Leader)", "Georgi Markov", "Iliyan Ihadzhiev", "Todor Krumov", "Velin Iliev", "Georgi Lukanov", "Ivan Parcunev", "Simeon Zhelinski", "Yordan Dobrev", "Aleksandar Kamburov"],
     position: "Full-Stack"
   }
 ];

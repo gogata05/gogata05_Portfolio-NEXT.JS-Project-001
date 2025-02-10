@@ -454,7 +454,7 @@ export const internshipsData = [
   },
   {
     id: 5,
-    number: "06",
+    number: "05",
     name: "Intern & Tech Lead Academy 3",
     corporation: "Cost-Effective-Solutions",
     date: "10/2024-02/2025",
@@ -466,7 +466,7 @@ export const internshipsData = [
   },
   {
     id: 6,
-    number: "07",
+    number: "06",
     name: "Intern & Tech Lead Academy 3",
     corporation: "Cost-Effective-Solutions",
     date: "10/2024-Current",
@@ -479,7 +479,7 @@ export const internshipsData = [
   },
   {
     id: 7,
-    number: "05",
+    number: "07",
     name: "Intern & Tech Lead Academy 3",
     corporation: "Cost-Effective-Solutions",
     date: "10/2024-Current",

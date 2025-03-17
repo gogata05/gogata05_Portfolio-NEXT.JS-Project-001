@@ -74,6 +74,15 @@ export const educationData = [
   },
   {
     id: 7,
+    title: "C# Data Structures Fundamentals",
+    location: "Software University",
+    text: "Advanced data structures in C#, including lists, stacks, queues, and trees, as well as algorithms for sorting and searching.",
+    delay: 0.4,
+    icons: ["icons/csharp.svg"],
+    githubLink: "https://github.com/gogata05/CSharp-Data-Structures-Fundamentals/blob/main/README.md"
+  },
+  {
+    id: 8,
     title: "C# Data Structures Advanced",
     location: "Software University",
     text: "Advanced data structures in C#, including lists, stacks, queues, and trees, as well as algorithms for sorting and searching.",
@@ -82,7 +91,7 @@ export const educationData = [
     githubLink: "https://github.com/gogata05/SoftUni-CSharp-Data-Structures-Advanced-November-2023/blob/main/README.md"
   },
   {
-    id: 8,
+    id: 9,
     title: "HTML & CSS",
     location: "Software University",
     text: "Basics of HTML and CSS for building and styling web pages, covering elements, attributes, and layout techniques.",
@@ -91,7 +100,7 @@ export const educationData = [
     githubLink: "https://github.com/gogata05/SoftUni-HTML-CSS-May-2023/blob/main/README.md"
   },
   {
-    id: 9,
+    id: 10,
     title: "JavaScript Front-End",
     location: "Software University",
     text: "Introduction to JavaScript for front-end development, including DOM manipulation, event handling, and basic interactivity.",
@@ -100,7 +109,7 @@ export const educationData = [
     githubLink: "https://github.com/gogata05/SoftUni-JS-Front-End-June-2023/blob/main/README.md"
   },
   {
-    id: 10,
+    id: 11,
     title: "JavaScript Advanced",
     location: "Software University",
     text: "Advanced JavaScript topics such as closures, higher-order functions, asynchronous programming, and ES6+ features.",
@@ -109,7 +118,7 @@ export const educationData = [
     githubLink: "https://github.com/gogata05/SoftUni-JS-Advanced-September-2023/blob/main/README.md"
   },
   {
-    id: 11,
+    id: 12,
     title: "JavaScript Applications",
     location: "Software University",
     text: "Developing applications with JavaScript, covering HTTP and REST services, SPA, and client-side rendering.",
@@ -118,7 +127,7 @@ export const educationData = [
     githubLink: "https://github.com/gogata05/SoftUni-JS-Applications-October-2023/blob/main/README.md"
   },
   {
-    id: 12,
+    id: 13,
     title: "JavaScript Back-End",
     location: "Software University",
     text: "Server-side JavaScript development with Node.js, Express, and MongoDB, including building RESTful APIs.",
@@ -127,7 +136,7 @@ export const educationData = [
     githubLink: "https://github.com/gogata05/SoftUni-JS-Back-End-February-2024/blob/main/README.md"
   },
   {
-    id: 13,
+    id: 14,
     title: "ASP.NET Fundamentals",
     location: "Software University",
     text: "Basic concepts of ASP.NET for web development, covering MVC pattern, Razor views, and data access with Entity Framework.",
@@ -136,7 +145,7 @@ export const educationData = [
     githubLink: "https://github.com/gogata05/SoftUni-ASP.NET-Fundamentals-February-2024/blob/main/README.md"
   },
   {
-    id: 14,
+    id: 15,
     title: "ASP.NET Advanced",
     location: "Software University",
     text: "Advanced ASP.NET topics such as security, authentication, authorization, and performance optimization.",
@@ -145,7 +154,7 @@ export const educationData = [
     githubLink: "https://github.com/gogata05/SoftUni-ASP.NET-Advanced-February-2024/blob/main/README.md"
   },
   {
-    id: 15,
+    id: 16,
     title: "Angular",
     location: "Software University",
     text: "Introduction to Angular framework for building client-side applications, covering components, modules, services, and routing.",
@@ -154,7 +163,7 @@ export const educationData = [
     githubLink: "https://github.com/gogata05/SoftUni-Angular-April-2024/blob/main/README.md"
   },
   {
-    id: 16,
+    id: 17,
     title: "TypeScript",
     location: "Software University",
     text: "TypeScript basics and integration with JavaScript projects, including type definitions, interfaces, and advanced type features.",
@@ -163,7 +172,7 @@ export const educationData = [
     githubLink: "https://github.com/gogata05/SoftUni-TypeScript-April-2024/blob/main/README.md"
   },
   {
-    id: 17,
+    id: 18,
     title: "PostgreSQL",
     location: "Software University",
     text: "Database management with PostgreSQL, covering database design, querying, and advanced SQL features.",
@@ -172,7 +181,7 @@ export const educationData = [
     githubLink: "https://github.com/gogata05/SoftUni-PostgreSQL-May-2024/blob/main/README.md"
   },
   {
-    id: 18,
+    id: 19,
     title: "ReactJS",
     location: "Software University",
     text: "Introduction to ReactJS for web development, covering components, state management, and advanced ReactJS features.",
@@ -181,7 +190,7 @@ export const educationData = [
     githubLink: "https://github.com/gogata05/SoftUni-ReactJS-June-2024/blob/main/README.md"
   },
   {
-    id: 19,
+    id: 20,
     title: "Software Engineering and DevOps",
     location: "Software University",
     text: "Comprehensive program covering software engineering principles, DevOps practices, CI/CD pipelines, and cloud deployment.",
@@ -190,7 +199,7 @@ export const educationData = [
     githubLink: "https://github.com/gogata05/SoftUni-Software-Engineering-and-DevOps-May-2024/blob/main/README.md"
   },
   {
-    id: 20,
+    id: 21,
     title: "Container And Cloud",
     location: "Software University",
     text: "Containerization and cloud computing concepts, including Docker, Azure, Terraform, Grafana, and Prometheus.",
@@ -199,7 +208,7 @@ export const educationData = [
     githubLink: "https://github.com/gogata05/SoftUni-Containers-and-Cloud-June-2024/blob/main/README.md"
   },
   {
-    id: 21,
+    id: 22,
     title: "Vue.js",
     location: "Software University",
     text: "Introduction to Vue.js for building client-side applications, covering components, state management, and advanced Vue.js features.",
@@ -457,7 +466,7 @@ export const internshipsData = [
     number: "05",
     name: "Intern & Tech Lead Academy 3",
     corporation: "Cost-Effective-Solutions",
-    date: "10/2024-02/2025",
+    date: "10/2024-03/2025",
     project: "Building Management",
     details: "Building Management System that serves to manage workers and their tasks.",
     features: ["ReactJS", "Node.js", "TypeScript", "MySQL", "AWS"],
@@ -469,7 +478,7 @@ export const internshipsData = [
     number: "06",
     name: "Intern & Tech Lead Academy 3",
     corporation: "Cost-Effective-Solutions",
-    date: "10/2024-Current",
+    date: "10/2024-03/2025",
     project: "Talking Letters",
     details: "AI App that helps children learn letters by explaining them.",
 
@@ -482,7 +491,7 @@ export const internshipsData = [
     number: "07",
     name: "Intern & Tech Lead Academy 3",
     corporation: "Cost-Effective-Solutions",
-    date: "10/2024-Current",
+    date: "10/2024-03/2025",
     project: "Paxity",
 
     details: "Paxity is a platform for creating and sharing AI-powered images.",

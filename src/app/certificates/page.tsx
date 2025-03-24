@@ -125,6 +125,12 @@ const certificates = [
     image: "/images/JSApplicationsOctober2023.png"
   },
   {
+    date: "July 2023",
+    title: "Algorithms Advanced with C#",
+    link: "https://softuni.bg/trainings/4178/algorithms-advanced-with-c-sharp-july-2023",
+    image: "/images/Algorithms_Advanced.png"
+  },
+  {
     date: "October 2023",
     title: "Data Structures Fundamentals with C#",
     link: "https://softuni.bg/trainings/4266/data-structures-fundamentals-with-csharp-september-2023",

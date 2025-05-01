@@ -47,28 +47,26 @@ const certificates = [
     image: "/images/InternAndTechLeadAcademyCookingApp.png"
   },
 
-
   {
     date: "October 2024 - April 2025",
     title: "Intern Certificate 3 Building Management",
-    link: "chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://huutgnkansvslafnbtbg.supabase.co/storage/v1/object/public/files/certificates/season3/Certificate-Intern-Georgi-Markov-4f815f02-9ddc-4a93-ba3e-b08975decf5a.pdf",
+    link: "https://huutgnkansvslafnbtbg.supabase.co/storage/v1/object/public/files/certificates/season3/Certificate-Intern-Georgi-Markov-4f815f02-9ddc-4a93-ba3e-b08975decf5a.pdf",
     image: "/images/FullStackDeveloper.png"
   },
 
   {
     date: "October 2024 - April 2025",
     title: "Intern Certificate 4 Talking Letters",
-    link: "chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://huutgnkansvslafnbtbg.supabase.co/storage/v1/object/public/files/certificates/season3/Certificate-Intern-Georgi-Markov-acce357c-e39c-4865-b4f2-16940aa77f73.pdf",
+    link: "https://huutgnkansvslafnbtbg.supabase.co/storage/v1/object/public/files/certificates/season3/Certificate-Intern-Georgi-Markov-acce357c-e39c-4865-b4f2-16940aa77f73.pdf",
     image: "/images/BackEndDeveloper.png"
   },
 
   // {
   //   date: "October 2024 - April 2025",
   //   title: "Intern Certificate 5 Pixity",
-  //   link: "chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://huutgnkansvslafnbtbg.supabase.co/storage/v1/object/public/files/certificates/season3/Certificate-Intern-Georgi-Markov-4f815f02-9ddc-4a93-ba3e-b08975decf5a.pdf",
+  //   link: "https://huutgnkansvslafnbtbg.supabase.co/storage/v1/object/public/files/certificates/season3/Certificate-Intern-Georgi-Markov-4f815f02-9ddc-4a93-ba3e-b08975decf5a.pdf",
   //   image: "/images/FullStackDeveloper.png"
   // },
-
 
   {
     date: "October 2022 - May 2024",

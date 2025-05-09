@@ -13,7 +13,8 @@ export const data = {
     { name: "Recommendations", href: "https://www.linkedin.com/in/georgi-markov-57b5b224b/details/recommendations/" },
     { name: "Projects", href: "/about/#projects" },
     { name: "Certificates", href: "/certificates" },
-    { name: "Internships", href: "/internships" }
+    { name: "Internships", href: "/internships" },
+    { name: "Work Experience", href: "/work-experience" }
   ]
 };
 
@@ -508,5 +509,19 @@ export const internshipsData = [
     features: [".NET", "Vue.js", "PostgreSQL", "Docker", "Open AI API", "Stripe"],
     team: ["Emilian Ognyanov (Leader)", "Georgi Markov", "Iliyan Ihadzhiev", "Todor Krumov", "Velin Iliev", "Georgi Lukanov", "Ivan Parcunev", "Simeon Zhelinski", "Yordan Dobrev", "Aleksandar Kamburov"],
     position: "Full-Stack"
+  }
+];
+
+export const workExperienceData = [
+  {
+    id: 1,
+    number: "01",
+    name: "AI Full-Stack Developer",
+    corporation: "Cost-Effective-Solutions",
+    date: "03/2024-Present",
+    details: "Fast Coding Expert. Using AI tools(Cursor,Windsurf,Agents,MCP,Claude,V0 and more) to code custom client projects to cut the production time from months into weeks, with uncompromising quality. ",
+    features: [".NET", "Vue.JS", "PostgreSQL", "Tailwind CSS"],
+    team: ["Georgi Markov"],
+    position: "AI Full-Stack"
   }
 ];

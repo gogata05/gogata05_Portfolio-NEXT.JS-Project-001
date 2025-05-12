@@ -519,7 +519,7 @@ export const workExperienceData = [
     name: "AI Full-Stack Developer",
     corporation: "Cost-Effective-Solutions",
     date: "03/2024-Present",
-    details: "Fast Coding Expert. Using AI tools(Cursor,Windsurf,Agents,MCP,Claude,V0 and more) to code custom client projects to cut the production time from months into weeks, with uncompromising quality. ",
+    details: "Fast Coding Expert. Using AI tools(Cursor,Windsurf,Agents,MCP,Claude,V0 and more) to code custom client projects to cut the production time from months into weeks, with high quality.\nNo team needed. One man army developer.",
     features: [".NET", "React", "MS SQL", "Tailwind CSS", "Azure", "Stripe"],
     team: ["Georgi Markov"],
     position: "AI Full-Stack"

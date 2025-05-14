@@ -61,12 +61,12 @@ const certificates = [
     image: "/images/BackEndDeveloper.png"
   },
 
-  // {
-  //   date: "October 2024 - April 2025",
-  //   title: "Intern Certificate 5 Pixity",
-  //   link: "https://huutgnkansvslafnbtbg.supabase.co/storage/v1/object/public/files/certificates/season3/Certificate-Intern-Georgi-Markov-4f815f02-9ddc-4a93-ba3e-b08975decf5a.pdf",
-  //   image: "/images/FullStackDeveloper.png"
-  // },
+  {
+    date: "October 2024 - April 2025",
+    title: "Intern Certificate 5 Pixity",
+    link: "https://huutgnkansvslafnbtbg.supabase.co/storage/v1/object/public/files/certificates/season3/Certificate-6562aa9d-e485-44f8-9dbb-e4a672a8f797-Frontend-Developer-Georgi-Markov.pdf",
+    image: "/images/FrontEndDeveloper.png"
+  },
 
   {
     date: "October 2022 - May 2024",

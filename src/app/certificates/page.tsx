@@ -69,6 +69,13 @@ const certificates = [
   },
 
   {
+    date: "October 2024 - April 2025",
+    title: "Intern Certificate 6 Aquaware",
+    link: "https://huutgnkansvslafnbtbg.supabase.co/storage/v1/object/public/files/certificates/season3/Certificate-f63d359e-36fc-488d-93d2-5a95fa9b6018-Dev-Ops-Georgi-Markov.pdf",
+    image: "/images/DevOpsDeveloper.png"
+  },
+
+  {
     date: "October 2022 - May 2024",
     title: "Diploma for C# Full-Stack Developer",
     link: "https://softuni.bg/certificates/details/226035/4c9782f7",
